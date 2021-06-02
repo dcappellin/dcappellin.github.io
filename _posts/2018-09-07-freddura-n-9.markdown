@@ -1,0 +1,12 @@
+---
+layout: post
+title: Freddura n.9
+date: '2018-09-07 15:08:06'
+tags:
+- freddurainformatica
+---
+
+Qual'è il colmo per uno sviluppatore?
+
+Essere allergico al polling...
+
