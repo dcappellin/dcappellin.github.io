@@ -17,9 +17,9 @@ A questo punto sono proprio cotto 🍳, ma per mia grande fortuna gli ultimi 3 k
 
 Il giro si conclude in 4:40h - 18,6 km - 1720 D+ da orologio, ma credo possano essere intorno ai 1000 D+.
 
-Il percorso e tutte le foto su [komoot].
+Il [percorso][komoot] sul mio profilo [Koomot][komoot-profile]. Ti invito a visitarlo e se ti piacciono i miei “highlight” di escursionismo e corsa ricordati di mettere un “like” 👍. 
 
-Il video sul [YouTube][youtube-video].
+Il [video][youtube] sul mio canale [YouTube][youtube-channel]. Ti invito a visitarlo. Se ti piacciano i miei video ricordati di mettere un “like” 👍 e iscriviti per non perdere tutte le prossime avventure.
 
 Giro veramente difficile che mi ha messo alla prova e mi ha fatto veramente sputare sangue🩸complice sicuramente una forma fisica non proprio al top. Oggi il meteo mi ha regalato una giornata calda, ma non eccessivamente, un cielo azzurro 💙 incredibile che mi ha permesso di apprezzare e immortalare degli splendidi panorami. Da rifare sicuramente la prima parte fino al Monte Sparavieri, poi forse un po’ troppo monotono, almeno per i miei gusti.
 
@@ -28,3 +28,5 @@ Alla prossima e buon giro!
 [youtube-video]: https://youtu.be/RmSHz70X1uo
 [youtube]: https://bit.ly/3jKVu80
 [komoot]: https://www.komoot.it/tour/737126105?ref=wtd
+[komoot-profile]: https://www.komoot.it/user/1971346940863
+[youtube-channel]: https://bit.ly/3jKVu80
