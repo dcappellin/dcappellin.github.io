@@ -15,25 +15,27 @@ Il punto più critico è la ripida salita che dal primo capitello ti porta in qu
 
 Partendo da Monteforte i capitelli che incontrerai sono:
 
-1) Madonna con Gesù
-2) San Pietro
-3) Sacra Famiglia (capitello del Foscarino)
-4) Regina Coeli
-5) San Vincenzo Ferreri
-6) Madonna della Bassanella
-7) San Giuseppe
-8) Cristo in Croce
-9) Regina Pacis
-10) San Rocheto
+1. Madonna con Gesù
+1. San Pietro
+1. Sacra Famiglia (capitello del Foscarino)
+1. Regina Coeli
+1. San Vincenzo Ferreri
+1. Madonna della Bassanella
+1. San Giuseppe
+1. Cristo in Croce
+1. Regina Pacis
+1. San Rocheto
 
 Il [percorso][komoot] sul mio profilo [Koomot][komoot-profile]. Ti invito a visitarlo e se ti piacciono i miei “highlight” di escursionismo e corsa ricordati di mettere un “like” 👍. 
 
 Molti dei miei percorsi sono visibili nel mio canale [YouTube][youtube-channel]. Ti invito a visitarlo. Se ti piacciano i video ricordati di mettere un “like” 👍 e iscriviti al canale per non perdere tutte le mie prossime avventure.
 
-TI è piaciuto il percorso? Pubblica le tue foto su Instagram con l’hashtag #10km10capitelli scrivendo le tue impressioni.
+TI è piaciuto il percorso? Pubblica le tue foto su [Instagram][instagram] con l’hashtag [#10km10capitelli][instagram-tag] scrivendo le tue impressioni.
 
 Alla prossima e buon giro!
 
 [komoot-profile]: https://www.komoot.it/user/1971346940863
 [komoot]: https://www.komoot.it/tour/749234352?ref=wtd
 [youtube-channel]: https://bit.ly/3jKVu80
+[instagram]: https://www.instagram.com/dcappellin/
+[instagram-tag]: https://www.instagram.com/explore/tags/10km10capitelli/
