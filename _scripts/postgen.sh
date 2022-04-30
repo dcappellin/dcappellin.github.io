@@ -27,7 +27,7 @@ fi
 
 POSTPATH="../_posts/"
 EXTENSION=".markdown"
-FILENAME="`date +%Y-%m-%d ; echo`_$1${EXTENSION}"
+FILENAME="`date +%Y-%m-%d ; echo`-$1${EXTENSION}"
 
 touch "${POSTPATH}${FILENAME}"
 
