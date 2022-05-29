@@ -3,6 +3,7 @@ layout: post
 title:  "Corsa tra i ponti di Verona"
 date:   2022-04-24 10:00:00 +0200
 categories: run
+comments: true
 ---
 
 Oggi ho deciso di cambiare sia disciplina sia ambiente. Di solito pratico speed hiking in ambiente montano/collinare, oggi invece corsa urbana 🏃🏙. Il tutto nasce dal fatto che tramite l’App Komoot che utilizzo per tracciare i miei percorsi si possono creare dei punti interessanti, chiamati “highlight”, specifici per disciplina. Gli “highlight” escursionismo a Verona sono molteplici, mentre scarseggiano per la corsa e quindi ecco l’idea di aggiungerne alcuni, possibilmente non i soliti arciconosciuti monumenti veronesi. Mi sono venuti in mente i ponti 🌉 di Verona. A parte il solito Ponte Pietra e Ponte Castelvecchio gli altri sono poco conosciuti e ammetto che anch’io non sempre ne ricordo a colpo sicuro il nome 😅. Morale: anello che percorra tutti i ponti di Verona senza dover passare due volte sullo stesso ponte. Piccola nota: ho escluso il ponte del Savàl, perché sinceramente non ricordo se è pedonale. Se qualcuno ha qualche informazione in merito, me lo faccia sapere nei commenti.
@@ -20,6 +21,10 @@ Il [video][youtube] sul mio canale [YouTube][youtube-channel]. Ti invito a visit
 Pensi di migliorare il mio tempo - non che sia difficile 😅 - facendo almeno una foto per ogni ponte, allora posta le tue foto e il tuo tempo su Instagram con l’hashtag #10km10pontiveronarun e che vinca il migliore!
 
 Alla prossima e buona corsa!
+
+{% if page.comments %}
+{% include disqus.html %}
+{% endif %}
 
 [ponte-aleardi]: https://it.wikipedia.org/wiki/Ponte_Aleardi
 [ponte-navi]: https://it.wikipedia.org/wiki/Ponte_Navi

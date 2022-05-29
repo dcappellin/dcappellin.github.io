@@ -15,6 +15,10 @@ Il [video][youtube] sul mio canale [YouTube][youtube-channel]. Ti invito a visit
 
 Alla prossima e buon giro!
 
+{% if page.comments %}
+{% include disqus.html %}
+{% endif %}
+
 [komoot-profile]: https://www.komoot.it/user/1971346940863
 [komoot]: 
 [youtube-channel]: https://bit.ly/3jKVu80

@@ -3,6 +3,7 @@ layout: post
 title:  "Anello da San Giorgio passando per Cima Trappola, Castel Gaibana, Monte Sparavieri, Cima di Mezzogiorno e Monte Tomba"
 date:   2022-04-15 10:00:00 +0200
 categories: speed-hiking
+comments: true
 ---
 
 Dopo alcune settimane di stop, tra COVID 😷 e impegni vari, ritrovo il mood per ripartire e provo un nuovo percorso che sulla carta non sembra difficile, ma nemmeno una bava d’aria.
@@ -24,6 +25,10 @@ Il [video][youtube] sul mio canale [YouTube][youtube-channel]. Ti invito a visit
 Giro veramente difficile che mi ha messo alla prova e mi ha fatto veramente sputare sangue🩸complice sicuramente una forma fisica non proprio al top. Oggi il meteo mi ha regalato una giornata calda, ma non eccessivamente, un cielo azzurro 💙 incredibile che mi ha permesso di apprezzare e immortalare degli splendidi panorami. Da rifare sicuramente la prima parte fino al Monte Sparavieri, poi forse un po’ troppo monotono, almeno per i miei gusti.
 
 Alla prossima e buon giro!
+
+{% if page.comments %}
+{% include disqus.html %}
+{% endif %}
 
 [youtube-video]: https://youtu.be/RmSHz70X1uo
 [youtube]: https://bit.ly/3jKVu80
