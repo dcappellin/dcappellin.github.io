@@ -4,15 +4,15 @@ title: Chi sono
 permalink: /chi-sono/
 ---
 
-Ciao, sono Denis Cappellin. Vivo a [Verona], [Italia] con mia moglie e i nostri due bambini. Mi diverto sia 
+Ciao, sono Denis Cappellin. Vivo a [Verona][verona], [Italia][italia] con mia moglie e i nostri due bambini. Mi diverto sia 
 professionalmente come software operations manager sia nel tempo libero a fare "cose". In effetti mi piacerebbe scrivere
 molti più post, ma ho troppe attività che mi appassionano e un giorno ha solo 23,934 ore. 
 
 Se vuoi contattarmi per motivi professionali, mi trovi su [LinkedIn], mentre per tutti gli altri motivi mi puoi trovare 
-su [Twitter], [Facebook], [Instagram], [Komoot] e [YouTube].
+su [Twitter][twitter], [Facebook][facebook], [Instagram][instagram], [Komoot][komoot] e [YouTube][youtube].
 
 ### Colophon
-[denis.cappell.in](http://denis.cappell.in) è pubblicato utilizzando [GitHub][github-pages] e [Jekyll].
+[denis.cappell.in](http://denis.cappell.in) è pubblicato utilizzando [GitHub][github-pages] e [Jekyll][jekyll].
 
 [verona]: https://en.wikipedia.org/wiki/Verona
 [italia]: https://en.wikipedia.org/wiki/Italia
