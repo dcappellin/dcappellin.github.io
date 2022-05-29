@@ -25,7 +25,7 @@ if [ $# -eq 0 ]
     exit 1
 fi
 
-POSTPATH="../_posts/"
+POSTPATH="../_drafts/"
 EXTENSION=".markdown"
 FILENAME="`date +%Y-%m-%d ; echo`-$1${EXTENSION}"
 
