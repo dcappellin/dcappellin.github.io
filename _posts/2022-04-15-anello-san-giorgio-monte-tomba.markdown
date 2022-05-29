@@ -26,10 +26,6 @@ Giro veramente difficile che mi ha messo alla prova e mi ha fatto veramente sput
 
 Alla prossima e buon giro!
 
-{% if page.comments %}
-{% include disqus.html %}
-{% endif %}
-
 [youtube-video]: https://youtu.be/RmSHz70X1uo
 [youtube]: https://bit.ly/3jKVu80
 [komoot]: https://www.komoot.it/tour/737126105?ref=wtd

@@ -35,10 +35,6 @@ TI è piaciuto il percorso? Pubblica le tue foto su [Instagram][instagram] con l
 
 Alla prossima e buon giro!
 
-{% if page.comments %}
-{% include disqus.html %}
-{% endif %}
-
 [komoot-profile]: https://www.komoot.it/user/1971346940863
 [komoot]: https://www.komoot.it/tour/749234352?ref=wtd
 [youtube-channel]: https://bit.ly/3jKVu80

@@ -30,10 +30,6 @@ Alla prossima e buon giro!
 
 [^1]: Il mio altimetro deve essere andato in tilt, perché alla fine segnava 750 m.
 
-{% if page.comments %}
-{% include disqus.html %}
-{% endif %}
-
 [komoot-profile]: https://www.komoot.it/user/1971346940863
 [komoot]: https://www.komoot.it/tour/785914120?ref=wtd
 [youtube-channel]: https://bit.ly/3jKVu80

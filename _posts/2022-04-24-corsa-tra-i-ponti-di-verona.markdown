@@ -22,10 +22,6 @@ Pensi di migliorare il mio tempo - non che sia difficile 😅 - facendo almeno u
 
 Alla prossima e buona corsa!
 
-{% if page.comments %}
-{% include disqus.html %}
-{% endif %}
-
 [ponte-aleardi]: https://it.wikipedia.org/wiki/Ponte_Aleardi
 [ponte-navi]: https://it.wikipedia.org/wiki/Ponte_Navi
 [ponte-nuovo]: https://it.wikipedia.org/wiki/Ponte_Nuovo_(Verona)
