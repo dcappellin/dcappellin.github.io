@@ -18,7 +18,7 @@ Partiamo sul sentiero ⬜ 206 🟥 e poco dopo inizia a piovere 🌧 ... e a gra
 
 Poco prima di arrivare al Monte Telegrafo (1562 m) ennesima sosta in un boschetto dove vedo, per la prima volta, una piccola Madonna in una teca. Aspettiamo che spiova e proseguiamo. Passiamo il Monte Telegrafo fino al punto in cui il ⬜ 213 🟥 devia verso est. Da qui si scende su un sentiero non numerato verso Campofontana. La discesa, già di per sé ripida, è resa ancora più insidiosa dalla pioggia, ma con calma e concentrazione arriviamo sul sentiero ⬜ 205 🟥 a circa 300 m dal nostro arrivo.
 
-⏱a 03:32  ↔ 6,66 km  ↗️ 750 m (da altimetro che deve essere andato in tilt; realmente dovrebbero essere circa 520 m)
+⏱ 03:32 ↔ 6,66 km  ↗️ 520 m[^1]
 
 Il [percorso][komoot] sul mio profilo [Koomot][komoot-profile]. Ti invito a visitarlo e se ti piacciono i miei “highlight” di escursionismo e corsa ricordati di mettere un “like” 👍. 
 
@@ -27,6 +27,8 @@ Molti dei miei percorsi sono visibili nel mio canale [YouTube][youtube-channel].
 Giro impegnativo per il meteo avverso e per seguire le persone che erano con me, ma alla fine mi sono pure divertivo. Nessuno si è fatto male, avevamo l'attrezzatura giusta e alla fine è stata una bella avventura che può essere raccontata. Peccato la scarsissima visibilità, perché i panorami che si possono ammirare soprattutto nella via del ritorno sono a mio avviso eccezionali. Motivo in più per ritornarci di nuovo e comunque speriamo che la prossima volta sia quella buona per Bismantova.
 
 Alla prossima e buon giro!
+
+[^1]: Il mio altimetro deve essere andato in tilt, perché alla fine segnava 750 m.
 
 {% if page.comments %}
 {% include disqus.html %}
