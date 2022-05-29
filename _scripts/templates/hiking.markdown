@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  ""
-date:   
-categories: speed-hiking
+date: 
+categories: hiking
 ---
 
 Concludo il percorso in  h  min. -  km -  D+
