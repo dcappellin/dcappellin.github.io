@@ -26,7 +26,7 @@ if [ $# -eq 0 ]
 fi
 
 POSTPATH="../_drafts/"
-EXTENSION=".markdown"
+EXTENSION=".tmpl"
 FILENAME="`date +%Y-%m-%d ; echo`-$1${EXTENSION}"
 
 touch "${POSTPATH}${FILENAME}"
