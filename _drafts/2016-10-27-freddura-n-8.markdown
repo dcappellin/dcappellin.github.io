@@ -1,9 +1,0 @@
----
-layout: post
-title: Freddura n.8
-date: '2016-10-27 13:40:10'
-tags:
-- freddurainformatica
----
-
-Creata una versione personalizzata di Android per ferramenta. Per attivare l'assistente vocale basta dire: "OK Broogle" (leggasi "ok brugol"). 

@@ -1,9 +1,0 @@
----
-layout: post
-title: Freddura n.2
-date: '2016-05-12 15:35:31'
-tags:
-- freddurainformatica
----
-
-Dopo il lavoro un gruppo di informatici si trovano al bar. Ordinano un APIritivo.

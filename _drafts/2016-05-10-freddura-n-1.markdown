@@ -1,9 +1,0 @@
----
-layout: post
-title: Freddura n.1
-date: '2016-05-10 17:33:59'
-tags:
-- freddurainformatica
----
-
-Negli Stati Uniti è stato ricoverato urgentemente uno sviluppatore C++ in shock anafilattico. Aveva appena iniziato a lavorare con le API.

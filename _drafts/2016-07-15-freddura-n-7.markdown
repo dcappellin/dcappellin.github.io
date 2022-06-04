@@ -1,9 +1,0 @@
----
-layout: post
-title: Freddura n.7
-date: '2016-07-15 13:20:35'
-tags:
-- freddurainformatica
----
-
-Quando un informatico mangia un kaki che allappa più del normale, dice che *overlappa*.

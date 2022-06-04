@@ -1,9 +1,0 @@
----
-layout: post
-title: Freddura (o PERLa) n.6
-date: '2016-06-28 12:38:08'
-tags:
-- freddurainformatica
----
-
-Se non trovi le librerie PERL, puoi dire che le hai "perlse"?
