@@ -25,7 +25,7 @@ Sono sempre in ritardo, perché sono fuori a pranzo e mi separano circa 3 km all
 
 Il [percorso][komoot] sul mio profilo [Koomot][komoot-profile]. Ti invito a visitarlo e se ti piacciono i miei “highlight” di escursionismo e corsa ricordati di mettere un “like” 👍. 
 
-Il video sul mio canale [YouTube][youtube-channel] a breve. Ti invito a visitarlo. Se ti piacciano i miei video ricordati di mettere un “like” 👍 e iscriviti per non perdere tutte le prossime avventure.
+Il [video][youtube] sul mio canale [YouTube][youtube-channel] a breve. Ti invito a visitarlo. Se ti piacciano i miei video ricordati di mettere un “like” 👍 e iscriviti per non perdere tutte le prossime avventure.
 
 Avevo sentito parlare della Val Sorda molte volte e ne ero Incuriosito. Direi che merita veramente. Sentieri pazzeschi, ma, non mi stanco di scriverlo, non adatti a tutti. Mi spiace non essere entrato al parco di Molina, che non visito da moltissimi anni. Ci dovrò tornare ad un orario più appropriato evitando la ressa di persone. Il ponte tibetano sempre di grande effetto. A questo punto mi manca solo quello nel Vajo dell'Orsa. Ecco la tappa di un prossimo percorso.
 
@@ -34,3 +34,4 @@ Alla prossima e buon giro!
 [komoot-profile]: https://www.komoot.it/user/1971346940863
 [komoot]: https://www.komoot.it/tour/776663969
 [youtube-channel]: https://bit.ly/3jKVu80
+[youtube]: https://youtu.be/0seAFkDbqzw
