@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tempi di percorrenza di un sentiero. Il calcolo."
+title:  "Tempi di percorrenza di un sentiero. Il calcolo. 0.2"
 date:   2022-07-03 18:00:00 +0200
 categories: hiking
 comments: true
@@ -20,12 +20,41 @@ Se il percorso è ondulato o piano e non presenta difficoltà che richiedano par
 
 ```1h di cammino = 250-300 D+ = 400-450 D- = 3,5-4 km (sopra i 2800-3000 m) ```
 
+### Metodo dello sforzo equivalente [^2] [^3] [^4] [^5]
+
+Con questo metodo si trasformano i metri di dislivello negli equivalenti kilometri lineari del percorso. La regola che utilizzo l'ho imparata a militare: 100 metri su = 1 Km in orizzontale. Di conseguenza un percorso di 15 Km lineari + 800 metri di dislivello corrisponde a 23 Km di sforzo equivalente.si calcola la lunghezza del percorso e si somma il dislivello pari a 1km ogni 100 m. di dislivello.
+
+Considerando che:
+
+Lunghezza percorso in media: 1 ora = 4000 m
+
+Esempio:
+
+Lunghezza 6km.
+
+Dislivello 1000 m.
+
+Calcolo:
+
+– KM relativi al dislivello: 1000 m. di dislivello = 1km * 100 m. = 10 km
+
+– Ore impiegate: 6km +10km = 16km /4km ora = 4 ore
+
 #### Note di rilascio
 
-##### 0.1:  Prima stesura con metodo basato sull'esperienza
+- 0.2: Metodo dello sforzo equivalente
+- 0.1: Prima stesura con metodo basato sull'esperienza
 
 #### Fonti
 
 [^1]: [Sentieri, pianificazione, segnaletica e manutenzione. Quaderno di escursionismo n.1 - 4a Edizione 2010][quaderno-escursionismo]
+[^2]: [Metodi per calcolare i tempi di salita e discesa][sognando-un-4000]
+[^3]: [Tempi di percorrenza dei sentieri in montagna][le-dolomiti-raccontano]
+[^4]: [Pianificazione del percorso e cartine topografiche][overblog]
+[^5]: [Tempi di cammino][girovagando]
 
 [quaderno-escursionismo]: https://www.cai.it/wp-content/uploads/2018/12/8-1-Quaderno_1_2010.pdf
+[sognando-un-4000]: https://www.sognandoun4000.it/index.php/calcolare-i-tempi-empiricamente-2
+[le-dolomiti-raccontano]: http://www.ledolomitiraccontano.it/tempi-di-percorrenza-dei-sentieri-in-montagna
+[overblog]: http://montagnaticino.over-blog.com/pages/Pianificazione_del_percorso_e_cartine_topografiche-684396.html
+[girovagando]: https://www.girovagando.net/abbigliamento-tempi-temperature-escursioni-montagna/
