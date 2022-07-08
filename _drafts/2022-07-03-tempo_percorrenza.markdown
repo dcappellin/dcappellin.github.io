@@ -22,7 +22,11 @@ Se il percorso è ondulato o piano e non presenta difficoltà che richiedano par
 
 ### Metodo dello sforzo equivalente [^2] [^3] [^4] [^5]
 
-Con questo metodo si trasformano i metri di dislivello negli equivalenti kilometri lineari del percorso. La regola che utilizzo l'ho imparata a militare: 100 metri su = 1 Km in orizzontale. Di conseguenza un percorso di 15 Km lineari + 800 metri di dislivello corrisponde a 23 Km di sforzo equivalente.si calcola la lunghezza del percorso e si somma il dislivello pari a 1km ogni 100 m. di dislivello.
+L'idea alla base di questo metodo è quella di trasformare i metri di dislivello negli equivalenti kilometri lineari del percorso. Il 
+
+```100 metri su = 1 Km in orizzontale```
+
+ Di conseguenza un percorso di 15 Km lineari + 800 metri di dislivello corrisponde a 23 Km di sforzo equivalente.si calcola la lunghezza del percorso e si somma il dislivello pari a 1km ogni 100 m. di dislivello.
 
 Considerando che:
 
@@ -31,6 +35,7 @@ Lunghezza percorso in media: 1 ora = 4000 m
 Esempio:
 
 Lunghezza 6km.
+
 
 Dislivello 1000 m.
 
