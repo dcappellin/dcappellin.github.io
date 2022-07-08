@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Tempi di percorrenza di un sentiero. Il calcolo. 0.2"
-date:   2022-07-03 18:00:00 +0200
+title:  "Tempi di percorrenza di un sentiero. Il calcolo."
+date:   2022-07-08 19:30:00 +0200
 categories: hiking
 comments: true
 ---
