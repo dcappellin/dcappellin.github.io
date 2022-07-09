@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tempi di percorrenza di un sentiero. Il calcolo."
-date:   2022-07-08 19:30:00 +0200
+date:   2022-07-09 11:50:00 +0200
 categories: hiking
 comments: true
 ---
@@ -10,7 +10,7 @@ Se hai presente la tabella segnavia del CAI, quella a forma di freccia, con la p
 
 La pagina che stai leggendo alla lunga le riporterà tutte, ma aggiungerò un pezzettino alla volta. In calce riporterò una versione e una nota di rilascio per ogni modifica che apporterò alla pagina. Quando sarò soddisfatto del contenuto siglerò il tutto con la versione 1.0. Se conosci delle formule che qui non sono descritte, ti chiedo la cortesia di citarla nei commenti e sarà mia premura andermele e studiare e riportare nel documento. Come vedrai cercherò sempre di citare le fonti di quanto scrivo, tuttavia visto che viviamo in un mondo in cui tutto cambia frequentemente, se sei a conoscenza di aggiornamenti alle mie fonti, anche in questo caso ti chiedo la cortesia di segnalarmelo. 
 
-## Metodo basato sull'esperienza (C.A.I.)
+## Metodo basato sull'esperienza (Club Alpino Italiano - CAI)
 
 Un escursionista mediamente allenato, in un'ora di cammino su un sentiero facile, in salita, guadagna in quota circa 350 metri, mentre in discesa si abbassa di circa 500 metri. Per brevità in alcuni casi indicherò un dislivello positivo, quindi una salita, utilizzando il simbolo D+ ; per indicare un dislivello negativo, quindi una discesa, utilizzerò il simbolo D- .
 Se l'itinerario si svolge a quote superiori ai 2800-3000 metri percorre rispettivamente 250-300 metri in salita e 400-450 metri in discesa.
@@ -35,10 +35,48 @@ Trasformo il dislivello in chilometri lineari: 700 m (D+) -> 700 m / 100 m = 7 *
 
 Sommo i chilometri lineari iniziali e quelli equivalenti: 11 km + 7 km = 18 km lineari.
 
-Dal primo metodo proposto sappiamo che una escursionista medio percorre in un'ora circa 3,5-4 km. Per semplicità di calcolo ipotizziamo 4 chilometri l'ora, quindi il tempo di percorrenza risulta essere 18 km / 4 km&middot;h<sup>-1</sup> = 4,5 h = 4 h 30 m .
+Dal primo metodo proposto sappiamo che una escursionista medio percorre in un'ora circa 3,5-4 km. Per semplicità di calcolo ipotizziamo 4 chilometri l'ora, quindi il tempo di percorrenza risulta essere 18 km / 4 km&middot;h<sup>-1</sup> = 4,5 h = 4 h 30 min .
+
+## Metodo del valore massimo e valore minimo
+
+Ho trovato descritto questo metodo in un paio di siti, ma uno degli esempi forniti non mi convince. Riporto il metodo, tuttavia mi riservo di compiere ulteriori ricerche a riguardo [^2][^6]. L'idea alla base di questo metodo è quella di trovare il valore massimo di percorrenza tra lunghezza del percorso e dislivello e successivamente il valore minimo, che vedremo andrà diviso per due. La somma del valore massimo e il valore minimo diviso per due ci fornisce la stima del tempo di percorrenza complessivo.
+
+```T_totale = Val_max + Val_min / 2``` 
+
+### Esempio 1
+
+Devo percorrere 11 chilometri, con 700 metri D+ e 500 D-. Quanto tempo impiegherò?
+
+Dal primo metodo proposto sappiamo che una escursionista medio percorre in un'ora circa 3,5-4 km. Per semplicità di calcolo ipotizziamo 4 chilometri l'ora, quindi il tempo di percorrenza orizzontale risulta essere 11 km / 4 km&middot;h<sup>-1</sup> = 2,75 h = 2 h 45 min .
+
+Sempre dal primo metodo proposto sappiamo che una escursionista medio riesce a percorrere 350 m D+ e 500 m D-, quindi il tempo di salita e discesa risultano essere rispettivamente 700 m / 350 m&middot;h<sup>-1</sup> = 2 h e 500 m / 500 m&middot;h<sup>-1</sup> = 1 h. Il nostro tempo di percorrenza verticale è dato dalla somma dei due: 2 h + 1 h = 3 h .
+
+I due valori che abbiamo calcolato sono: 2,75 h e 3 h. Adesso prendiamo il maggiore: 3 h e il minore: 2,75 h. Il tempo totale dell'escursione è 3 h + 2,75 h / 2 = 3 h + 1,375 h = 4,375 h = 4 h 23 min .
+
+### Esempio 2
+
+Devo percorrere 13 chilometri, con 350 metri D+ e 350 D-. Quanto tempo impiegherò?
+
+Dal primo metodo proposto sappiamo che una escursionista medio percorre in un'ora circa 3,5-4 km. Per semplicità di calcolo ipotizziamo 4 chilometri l'ora, quindi il tempo di percorrenza orizzontale risulta essere 13 km / 4 km&middot;h<sup>-1</sup> = 3,25 h = 3 h 15 m .
+
+Sempre dal primo metodo proposto sappiamo che una escursionista medio riesce a percorrere 350 m D+ e 500 m D-, quindi il tempo di salita e discesa risultano essere rispettivamente 350 m / 350 m&middot;h<sup>-1</sup> = 1 h e 350 m / 500 m&middot;h<sup>-1</sup> = 0,7 h = 42 min. Il nostro tempo di percorrenza verticale è dato dalla somma dei due: 1 h + 0,7 h = 1,7 h = 1 h 42 min .
+
+I due valori che abbiamo calcolato sono: 3,25 h e 1,7 h. Adesso prendiamo il maggiore: 3,25 h he il minore: 1,7 h. Il tempo totale dell'escursione è 3,25 h + 1,7 h / 2 = 3 h + 0,85 h = 3,85 h = 3 h 51 min .
+
+### Esempio 3
+
+Sono a 3500 m e devo percorrere 7 chilometri, con 125 metri D+ e 700 D-. Quanto tempo impiegherò?
+
+Dal primo metodo proposto sappiamo che una escursionista medio percorre in un'ora circa 3,5-4 km. Visto che siamo in quota e presumiamo di fare un più fatica ipotizziamo 3,5 chilometri l'ora, quindi il tempo di percorrenza orizzontale risulta essere 7 km / 3,5 km&middot;h<sup>-1</sup> = 2 h .
+
+Sempre dal primo metodo proposto sappiamo che una escursionista medio sopra i 2800 m riesce a percorrere 250-300 m D+ e 400-450 m D-. Come sopra, visto che siamo in quota e presumiamo di fare un po' più fatica useremo i valori minori, quindi il tempo di salita e discesa risultano essere rispettivamente 125 m / 250 m&middot;h<sup>-1</sup> = 0,5 h = 30 min e 700 m / 400 m&middot;h<sup>-1</sup> = 1,75 h = 1h 45 min. Il nostro tempo di percorrenza verticale è dato dalla somma dei due: 0,5 h + 1,75 h = 2,25 h = 2 h 15 min .
+
+I due valori che abbiamo calcolato sono: 2 h e 2,25 h. Adesso prendiamo il maggiore: 2,25 h e il minore: 2 h. Il tempo totale dell'escursione è 2,25 h + 2 h / 2 = 2,25 h + 1 h = 3,25 h = 3 h 15 min .
+
 
 #### Note di rilascio
 
+- 0.4: Metodo del valore massimo e valore minimo
 - 0.3: Riposizionati i link delle fonti e alcune correzioni 
 - 0.2: Metodo dello sforzo equivalente
 - 0.1: Prima stesura con metodo basato sull'esperienza
@@ -50,9 +88,11 @@ Dal primo metodo proposto sappiamo che una escursionista medio percorre in un'or
 [^3]: [Tempi di percorrenza dei sentieri in montagna][le-dolomiti-raccontano]
 [^4]: [Pianificazione del percorso e cartine topografiche][overblog]
 [^5]: [Tempi di cammino][girovagando]
+[^6]: [Come calcolare i tempi di percorrenza di un’escursione? I metodi infallibili][ilcappellinoerrante]
 
 [quaderno-escursionismo]: https://www.cai.it/wp-content/uploads/2018/12/8-1-Quaderno_1_2010.pdf
 [sognando-un-4000]: https://www.sognandoun4000.it/index.php/calcolare-i-tempi-empiricamente-2
 [le-dolomiti-raccontano]: http://www.ledolomitiraccontano.it/tempi-di-percorrenza-dei-sentieri-in-montagna
 [overblog]: http://montagnaticino.over-blog.com/pages/Pianificazione_del_percorso_e_cartine_topografiche-684396.html
-[girovagando]: https://www.girovagando.net/abbigliamento-tempi-temperature-escursioni-montagna/
+[girovagando]: https://www.girovagando.net/abbigliamento-tempi-temperature-escursioni-montagna
+[ilcappellinoerrante]: https://www.ilcappellinoerrante.it/come-calcolare-i-tempi-di-percorrenza-di-unescursione-i-metodi-infallibili
