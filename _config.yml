@@ -57,5 +57,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-disqus:
-    shortname: dcappellin
+cusdis:
+    app_id: 4e419f91-723f-41ef-aaa8-f631dd1b6bff
