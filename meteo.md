@@ -5,9 +5,10 @@ title: Meteo
 
 # Regione Veneto
 
-- [Bollettino meteorologico][bollettino-veneto]{:target="_blank"}
+- [Bollettino meteorologico][bollettino-veneto-arpav]{:target="_blank"}
 - [Bollettino per la montagna][bollettino-montagna-veneto]{:target="_blank"}
 - [Bollettino delle valanghe][bollettino-valanghe-veneto]{:target="_blank"}
+- [Previsioni del tempo a Verona nei prossimi 3 gg (fonte meteologix)][previsione-verona-meteologix]{:target="_blank"}
 
 # Provincia Autonoma di Trento
 
@@ -31,7 +32,8 @@ title: Meteo
 
 - [Bollettino meteorologico][bollettino-emilia-romagna]{:target="_blank"}
  
-[bollettino-veneto]: https://www.arpa.veneto.it/previsioni/it/html/index.php 
+[bollettino-veneto-arpav]: https://www.arpa.veneto.it/previsioni/it/html/index.php 
+[previsione-verona-meteologix]: https://meteologix.com/it/forecast/3164527-verona/meteogram/sui-hd
 [bollettino-montagna-veneto]: https://www.arpa.veneto.it/previsioni/it/html/meteo_dolomiti.php
 [bollettino-valanghe-veneto]: https://www.arpa.veneto.it/neve_valanghe/it/html/index.php 
 [bollettino-trento]: https://www.meteotrentino.it/?ID=7#!/home?tab=2
