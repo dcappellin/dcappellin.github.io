@@ -26,11 +26,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://denis.cappell.in
 twitter_username: dcappellin
 github_username: dcappellin
-facebook_username: dcappellin.sh
 linkedin_username: deniscappellin
 youtube_username: dcappellin
 youtube_channel: dcappellin
-instagram_username: dcappellin
 
 # Build settings
 theme: minima
