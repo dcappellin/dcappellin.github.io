@@ -31,12 +31,8 @@ Il [percorso][komoot] sul mio profilo [Koomot][komoot-profile]. Ti invito a visi
 
 Molti dei miei percorsi sono visibili nel mio canale [YouTube][youtube-channel]. Ti invito a visitarlo. Se ti piacciano i video ricordati di mettere un “like” 👍 e iscriviti al canale per non perdere tutte le mie prossime avventure.
 
-TI è piaciuto il percorso? Pubblica le tue foto su [Instagram][instagram] con l’hashtag [#10km10capitelli][instagram-tag] scrivendo le tue impressioni.
-
 Alla prossima e buon giro!
 
 [komoot-profile]: https://www.komoot.it/user/1971346940863
 [komoot]: https://www.komoot.it/tour/749234352?ref=wtd
 [youtube-channel]: https://bit.ly/3jKVu80
-[instagram]: https://www.instagram.com/dcappellin/
-[instagram-tag]: https://www.instagram.com/explore/tags/10km10capitelli/
