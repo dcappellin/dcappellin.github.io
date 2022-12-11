@@ -9,16 +9,18 @@ professionalmente come software operations manager sia nel tempo libero a fare "
 molti più post, ma ho troppe attività che mi appassionano e un giorno ha solo 23,934 ore. 
 
 Se vuoi contattarmi per motivi professionali, mi trovi su [LinkedIn], mentre per tutti gli altri motivi mi puoi trovare 
-su [Twitter][twitter], [Komoot][komoot] e [YouTube][youtube].
+su [Mastodon][mastodon], [Telegram][telegram], [Komoot][komoot] e [YouTube][youtube].
 
 ### Colophon
-[denis.cappell.in](http://denis.cappell.in) è pubblicato utilizzando [GitHub][github-pages] e [Jekyll][jekyll].
+[denis.cappell.in](http://denis.cappell.in) è pubblicato utilizzando [GitHub][github-pages], [Jekyll][jekyll] con il tema [Minima][minima].
 
 [verona]: https://en.wikipedia.org/wiki/Verona
 [italia]: https://en.wikipedia.org/wiki/Italia
 [youtube]: https://www.youtube.com/channel/UC3o7ZJUzsg3AHNkz71_f_7Q
 [linkedin]: https://www.linkedin.com/in/deniscappellin
 [komoot]: https://www.komoot.it/user/1971346940863
-[twitter]: https://twitter.com/dcappellin
+[mastodon]: https://mastodon.uno/@dcappellin
+[telegram]: https://t.me/deniscappellin
 [github-pages]: https://pages.github.com
 [jekyll]: https://jekyllrb.com
+[minima]: https://github.com/jekyll/minima

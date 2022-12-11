@@ -8,6 +8,7 @@ url: https://denis.cappell.in
 # Social
 mastodon:
   - { username: dcappellin, instance: mastodon.uno }
+telegram_channel: dcappellin
 linkedin_username: deniscappellin
 youtube_channel: dcappellin
 
