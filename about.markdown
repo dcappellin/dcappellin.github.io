@@ -4,23 +4,20 @@ title: Chi sono
 permalink: /chi-sono/
 ---
 
-Ciao, sono Denis Cappellin. Vivo a [Verona][verona], [Italia][italia] con mia moglie e i nostri due bambini. Mi diverto sia 
+Ciao, sono Denis Cappellin. Vivo a *[Verona][verona]*, *[Italia][italia]* con mia moglie e i nostri due bambini. Mi diverto sia 
 professionalmente come software operations manager sia nel tempo libero a fare "cose". In effetti mi piacerebbe scrivere
 molti più post, ma ho troppe attività che mi appassionano e un giorno ha solo 23,934 ore. 
 
-Se vuoi contattarmi per motivi professionali, mi trovi su [LinkedIn], mentre per tutti gli altri motivi mi puoi trovare 
-su [Mastodon][mastodon], [Telegram][telegram], [Komoot][komoot] e [YouTube][youtube].
+Se vuoi contattarmi mi trovi nel *[Fediverso][fediverso]* su [Mastodon]({%- for mst in site.mastodon -%}{%- if mst.username and mst.instance -%}https://{{ mst.instance| cgi_escape | escape}}/@{{mst.username}}{%- endif -%}{%- endfor -%}), [PeerTube]({%- for ptb in site.peertube -%}{%- if ptb.username and ptb.instance -%}https://{{ ptb.instance| cgi_escape | escape}}/@{{ptb.username}}{%- endif -%}{%- endfor -%}) oppure su [Komoot]({%- if site.komoot_username -%}https://www.komoot.it/user/{{ site.komoot_username | cgi_escape | escape }}{%- endif -%}); mentre se vuoi contattarmi per motivi professionali, mi trovi su [LinkedIn]({%- if site.linkedin_username -%}https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}{%- endif -%}).
+
+Per essere sempre aggiornato puoi iscriverti al mio canale [Telegram]({%- if site.telegram_channel -%}https://t.me/{{ site.telegram_channel| cgi_escape | escape }}{%- endif -%}) oppure al [feed RSS]({{ 'feed.xml' | relative_url }}) .
 
 ### Colophon
-[denis.cappell.in](http://denis.cappell.in) è pubblicato utilizzando [GitHub][github-pages], [Jekyll][jekyll] con il tema [Minima][minima].
+[denis.cappell.in]({{site.url}}) è pubblicato utilizzando [GitHub][github-pages], [Jekyll][jekyll] con il tema [Minima][minima].
 
 [verona]: https://en.wikipedia.org/wiki/Verona
 [italia]: https://en.wikipedia.org/wiki/Italia
-[youtube]: https://www.youtube.com/channel/UC3o7ZJUzsg3AHNkz71_f_7Q
-[linkedin]: https://www.linkedin.com/in/deniscappellin
-[komoot]: https://www.komoot.it/user/1971346940863
-[mastodon]: https://mastodon.uno/@dcappellin
-[telegram]: https://t.me/deniscappellin
+[fediverso]: https://it.wikipedia.org/wiki/Fediverso
 [github-pages]: https://pages.github.com
 [jekyll]: https://jekyllrb.com
 [minima]: https://github.com/jekyll/minima

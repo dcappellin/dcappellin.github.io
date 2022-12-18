@@ -8,9 +8,11 @@ url: https://denis.cappell.in
 # Social
 mastodon:
   - { username: dcappellin, instance: mastodon.uno }
-telegram_channel: dcappellin
+peertube: 
+  - { username: dcappellin, instance: peertube.uno }
 linkedin_username: deniscappellin
-youtube_channel: dcappellin
+komoot_username: "1971346940863"
+telegram_channel: dcappellin
 
 # Build settings
 theme: minima
