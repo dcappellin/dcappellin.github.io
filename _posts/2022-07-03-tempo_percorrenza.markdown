@@ -3,7 +3,7 @@ layout: post
 title:  "Tempi di percorrenza di un sentiero. Il calcolo."
 date:   2022-07-09 11:50:00 +0200
 categories: hiking
-comments: true
+status_id: "109495658233026413" 
 ---
 
 Se hai presente la tabella segnavia del Club Alpino Italiano (CAI), quella a forma di freccia, con la punta rossa e la coda rossa-bianco-rossa, accanto alla località di destinazione del sentiero compare un valore numerico che indica il tempo indicativo necessario ad un escursionista medio per raggiungerla a piedi. Da sempre mi sono chiesto quale formula si nasconda dietro tale valore. Pensavo che la risposta fosse banale e scontata, mentre, al contrario, i metodi per calcolare la percorrenza sono diversi. 
