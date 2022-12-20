@@ -36,4 +36,3 @@ Mi ricordavo un percorso vivace, divertente, piacevole e infatti √® proprio cos√
 
 [percorso]: https://www.komoot.it/tour/513218189?ref=wtd
 [video]: https://peertube.uno/w/2YUVDTrG27yv4q3LinrqDF
-
