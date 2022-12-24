@@ -26,9 +26,7 @@ Se tanto si sale, tanto si scende, 🏃🏻‍♂️quindi adesso giù di corsa 
 
 Concludo il giro in 3:36h (sarebbero stati 3:29h ma ho dimenticato di fermare l’orologio 😬) - 19,2 km - 1210m D+.
 
-Il [percorso][percorso], completo di traccia GPX e fotografie, è disponibile in [Komoot]({%- if site.komoot_username -%}https://www.komoot.it/user/{{ site.komoot_username | cgi_escape | escape }}{%- endif -%}). Ti invito a visitarlo e se ti piacciono i miei “highlight” di escursionismo e corsa ricordati di mettere un “like” 👍. 
-
-<iframe title="1a Lessinia Legend Run 20 - 4 anni dopo (9 ottobre 2021)" width="560" height="315" src="https://peertube.uno/videos/embed/100b67ef-e6b4-4215-a9f2-185b99f4f5c1" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+Il [percorso][percorso], completo di traccia GPX e fotografie, è disponibile in [Komoot]({%- if site.komoot_username -%}https://www.komoot.it/user/{{ site.komoot_username | cgi_escape | escape }}{%- endif -%}). Ti invito a visitarlo e se ti piacciono i miei “highlight” di escursionismo e corsa ricordati di mettere un “like” 👍.
 
 Il [video][video] è disponibile anche in [PeerTube]({%- for ptb in site.peertube -%}{%- if ptb.username and ptb.instance -%}https://{{ ptb.instance| cgi_escape | escape}}/@{{ptb.username}}{%- endif -%}{%- endfor -%}). Ti invito a visitarlo e se ti piacciano i miei video ricordati di mettere un “like” 👍. Infine ricordati di iscriverti al canale per non perdere tutte le prossime avventure.
 
