@@ -5,6 +5,7 @@ date: '2019-05-31 10:00:00'
 ---
 
 About one month ago I bought a fantastic Kinesis [Freestyle2 Blue for Mac keyboard with VIP3 accessory](https://www.kinesis-ergo.com/shop/freestyle2-blue-pc/) to try to solve a pain I had on the left hand. The pain had gone and this is very important. Freestyle2 is really a great keyboard!
+
 ![Freestyle2 Blue for Mac]({{site.bucket_url}}/IMG_1295.jpeg)
 
 One of the features I like with this keyboard is that it has three bluetooth channels. I've paired it with my office Mac, my iPhone and the Mac laptop I have at home.

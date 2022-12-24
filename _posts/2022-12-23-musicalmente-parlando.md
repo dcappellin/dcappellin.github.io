@@ -5,7 +5,7 @@ date: '2022-12-23 09:30:00'
 categories: humor
 ---
 
-Un'altra raccolta con titoli o parti di canzoni in chiave informatica:
+Una raccolta con titoli o parti di canzoni in chiave informatica.
 
 - Come crawling faster, rebase onto master (Master of Puppets - Metallica)
 - SHA on your crazy diamond (Pink Floyd)
