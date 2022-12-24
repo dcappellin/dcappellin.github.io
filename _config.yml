@@ -4,6 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Mi diverto, lavoro e faccio "cose"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://denis.cappell.in
+bucket_url: https://eu2.contabostorage.com/2bf6bd9d48c04782aa09bc85404d26bf:eot4h2557c5hs6912lqa9o6a2xx91qmp-denis.cappell.in
 
 # Social
 mastodon:
