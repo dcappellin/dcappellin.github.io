@@ -3,6 +3,7 @@ layout: post
 title: Musicalmente parlando... da informatici
 date: '2022-12-23 09:30:00'
 categories: humor
+status_id: "109568350813918835"
 ---
 
 Una raccolta con titoli o parti di canzoni in chiave informatica.
