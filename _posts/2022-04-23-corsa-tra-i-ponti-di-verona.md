@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corsa tra i ponti di Verona"
-date: 2021-10-09 12:00:00 +0200
+date: 2022-04-23 12:00:00 +0200
 status_id: "109598056390722662"
 ---
 
