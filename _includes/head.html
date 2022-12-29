@@ -5,10 +5,10 @@
 
   <meta http-equiv="Content-Security-Policy" 
         content="default-src 'none';
-        connect-src https://{{ site.mastodon[0].instance }};
-        img-src {{ site.url }} https://*.contabostorage.com https://cdn.masto.host;
-        script-src {{ site.url }} 'nonce-5ea48fdb0d';
-        style-src {{ site.url }}">
+                 connect-src https://{{ site.mastodon[0].instance }};
+                 img-src 'self' https://*.contabostorage.com https://cdn.masto.host;
+                 script-src 'self' 'nonce-5ea48fdb0d';
+                 style-src 'self'">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
