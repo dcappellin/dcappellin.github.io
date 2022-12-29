@@ -2,6 +2,7 @@
 layout: post
 title: "Corsa tra i ponti di Verona"
 date: 2022-04-23 12:00:00 +0200
+categories: run
 status_id: "109598056390722662"
 ---
 
@@ -13,9 +14,9 @@ Morale: anello che percorra tutti i ponti di Verona senza dover passare due volt
 
 Parto presto verso le 7:45 dal cimitero monumentale dove si trova ampia possibilità di parcheggio e soprattutto, perché voglio evitare di passare su alcuni ponti in ora di punta 🚗🚬 .
 
-Il primo ponte che trovo è il https://it.wikipedia.org/wiki/Ponte_Aleardi, detto anche ponte del Cimitero. Attraverso il ponte e giro in Via Filippini e arrivo al secondo ponte, https://it.wikipedia.org/wiki/Ponte_Navi . Attraverso il ponte e giro in Lungadige Sammicheli. Qui incontro il terzo ponte, che purtroppo è parzialmente chiuso per lavori di manutenzione, https://it.wikipedia.org/wiki/Ponte_Nuovo_(Verona) . Attraverso il ponte e mi dirigo verso Piazzetta Bra Molinari per incontrare il quarto e probabilmente  più famoso ponte di Verona, https://it.wikipedia.org/wiki/Ponte_Pietra . Attraversarlo senza la ressa di persone è sempre un piacere. Passo il ponte, scendo le scalette per correre sull’alzaia in Lungadige San Giorgio e arrivo al quinto ponte, https://it.wikipedia.org/wiki/Ponte_Garibaldi_(Verona) .
+Il primo ponte che trovo è il [Ponte Aleardi][ponte-aleardi], detto anche ponte del Cimitero. Attraverso il ponte e giro in Via Filippini e arrivo al secondo ponte, [Ponte Navi][ponte-navi]. Attraverso il ponte e giro in Lungadige Sammicheli. Qui incontro il terzo ponte, che purtroppo è parzialmente chiuso per lavori di manutenzione, [Ponte Nuovo][ponte-nuovo]. Attraverso il ponte e mi dirigo verso Piazzetta Bra Molinari per incontrare il quarto e probabilmente  più famoso ponte di Verona, [Ponte Pietra][ponte-pietra]. Attraversarlo senza la ressa di persone è sempre un piacere. Passo il ponte, scendo le scalette per correre sull’alzaia in Lungadige San Giorgio e arrivo al quinto ponte, [Ponte Garibaldi][ponte-garibaldi]. Passo il ponte e svolto in Lungadige Panvinio e arrivo al sesto ponte del percorso, [Ponte della Vittoria][ponte-della-vittoria] con i suoi quattro gruppi scultorei in bronzo sopra i basamenti. Non abbiamo ancora finito e non siamo nemmeno a metà strada 😅.
 
-Passo il ponte e svolto in Lungadige Panvinio e arrivo al sesto ponte del percorso, https://it.wikipedia.org/wiki/Ponte_della_Vittoria_(Verona) con i suoi quattro gruppi scultorei in bronzo sopra i basamenti. Non abbiamo ancora finito e non siamo nemmeno a metà strada 😅. Passo il ponte e svolto in Lungadige Campagnola per arrivare al settimo e ben conosciuto https://it.wikipedia.org/wiki/Ponte_di_Castelvecchio . Anche qui non trovare nessuno sul ponte è quasi un miracolo, quindi mi gusto il momento 😄. Attraverso il ponte e svolto in Regaste San Zeno e arrivo all’ottavo ponte, https://it.wikipedia.org/wiki/Ponte_del_Risorgimento_(Verona). Più o meno siamo a metà percorso e abbiamo ancora altri due ponti su cui passare. Scendo e continuo a correre sull’alzaia di Lungadige Cangrande e arrivo al nono ponte, https://it.wikipedia.org/wiki/Ponte_Catena . Adesso per arrivare al decimo e ultimo ponte ho un bel po’ di strada da macinare. Rimango per quanto possibile all’interno del Parco delle Mura e arrivo dopo quasi 3 km all’ultimo ponte, https://it.wikipedia.org/wiki/Ponte_San_Francesco . Ultimo km scarso e arrivo al traguardo 🏁 da dove sono partito.
+Passo il ponte e svolto in Lungadige Campagnola per arrivare al settimo e ben conosciuto [Ponte Castelvecchio][ponte-castelvecchio]. Anche qui non trovare nessuno sul ponte è quasi un miracolo, quindi mi gusto il momento 😄. Attraverso il ponte e svolto in Regaste San Zeno e arrivo all’ottavo ponte, [Ponte Risorgimento][ponte-risorgimento]. Più o meno siamo a metà percorso e abbiamo ancora altri due ponti su cui passare. Scendo e continuo a correre sull’alzaia di Lungadige Cangrande e arrivo al nono ponte, [Ponte Catena][ponte-catena]. Adesso per arrivare al decimo e ultimo ponte ho un bel po’ di strada da macinare. Rimango per quanto possibile all’interno del Parco delle Mura e arrivo dopo quasi 3 km all’ultimo ponte, [Ponte San Francesco][ponte-san-francesco]. Ultimo km scarso e arrivo al traguardo 🏁 da dove sono partito.
 
 La corsa si conclude in 1h 32min. - 10,57 km
 
@@ -27,3 +28,13 @@ Alla prossima e buona corsa!
 
 [percorso]: https://www.komoot.it/tour/746697445?ref=wtd
 [video]: https://peertube.uno/w/et7ztMbhPhUp2W7SRtNghg
+[ponte-aleardi]: https://it.wikipedia.org/wiki/Ponte_Aleardi
+[ponte-navi]: https://it.wikipedia.org/wiki/Ponte_Navi
+[ponte-nuovo]: https://it.wikipedia.org/wiki/Ponte_Nuovo_(Verona)
+[ponte-pietra]: https://it.wikipedia.org/wiki/Ponte_Pietra
+[ponte-garibaldi]: https://it.wikipedia.org/wiki/Ponte_Garibaldi_(Verona)
+[ponte-della-vittoria]: https://it.wikipedia.org/wiki/Ponte_della_Vittoria_(Verona)
+[ponte-castelvecchio]: https://it.wikipedia.org/wiki/Ponte_di_Castelvecchio
+[ponte-risorgimento]: https://it.wikipedia.org/wiki/Ponte_del_Risorgimento_(Verona)
+[ponte-catena]: https://it.wikipedia.org/wiki/Ponte_Catena
+[ponte-san-francesco]: https://it.wikipedia.org/wiki/Ponte_San_Francesco
