@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Anello da Molin de Cao passando per la Val Sorda, Cerna, Spiazzo e il parco delle cascate di Molina"
-date: 2022/05/23, 11:00:00 +0200
+date: 2022-05-21, 11:00:00 +0200
 categories: speed-hiking
 ---
 
@@ -23,15 +23,14 @@ Sono sempre in ritardo, perché sono fuori a pranzo e mi separano circa 3 km all
 
 ⏱ 03:35 ↔ 11,7 km  ↗️ 930 m
 
-Il [percorso][komoot] sul mio profilo [Koomot][komoot-profile]. Ti invito a visitarlo e se ti piacciono i miei “highlight” di escursionismo e corsa ricordati di mettere un “like” 👍. 
+Il [percorso][percorso], completo di traccia GPX e fotografie, è disponibile in [Komoot]({%- if site.komoot_username -%}https://www.komoot.it/user/{{ site.komoot_username | cgi_escape | escape }}{%- endif -%}). Ti invito a visitarlo e se ti piacciono i miei “highlight” di escursionismo e corsa ricordati di mettere un “like” 👍.
 
-Il [video][youtube] sul mio canale [YouTube][youtube-channel] a breve. Ti invito a visitarlo. Se ti piacciano i miei video ricordati di mettere un “like” 👍 e iscriviti per non perdere tutte le prossime avventure.
+Il [video][video] è disponibile anche in [PeerTube]({%- for ptb in site.peertube -%}{%- if ptb.username and ptb.instance -%}https://{{ ptb.instance| cgi_escape | escape}}/@{{ptb.username}}{%- endif -%}{%- endfor -%}). Ti invito a visitarlo e se ti piacciano i miei video ricordati di mettere un “like” 👍. Infine ricordati di iscriverti al canale per non perdere tutte le prossime avventure.
+
+[percorso]: https://www.komoot.it/tour/776663969?ref=wtd
+[video]: hhttps://peertube.uno/w/fcjvvBkce93YgBKReeGs5c
 
 Avevo sentito parlare della Val Sorda molte volte e ne ero Incuriosito. Direi che merita veramente. Sentieri pazzeschi, ma, non mi stanco di scriverlo, non adatti a tutti. Mi spiace non essere entrato al parco di Molina, che non visito da moltissimi anni. Ci dovrò tornare ad un orario più appropriato evitando la ressa di persone. Il ponte tibetano sempre di grande effetto. A questo punto mi manca solo quello nel Vajo dell'Orsa. Ecco la tappa di un prossimo percorso.
 
 Alla prossima e buon giro!
 
-[komoot-profile]: https://www.komoot.it/user/1971346940863
-[komoot]: https://www.komoot.it/tour/776663969
-[youtube-channel]: https://bit.ly/3jKVu80
-[youtube]: https://youtu.be/0seAFkDbqzw
