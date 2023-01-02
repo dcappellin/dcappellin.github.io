@@ -2,6 +2,7 @@
 layout: post
 title: "Dorsale Renzo Giuliani - Montorio Parona Montorio"
 date: 2021-11-20 12:00:00 +0200
+status_id: "109618579508587197"
 ---
 
 Qui a Montorio abbiamo la fortuna di avere uno degli estremi del Percorso con la “P” maiuscola più famoso di Verona: la “Dorsale delle Frazioni”, chiamata anche “Dorsale Renzo Giuliani”. È un reticolo di sentieri, strade bianche, antiche mulattiere e brevi tratti asfaltati che collega le frazioni in collina alla città. È stata dedicata dal CAI all’ideatore e catalogatore di questo percorso, Renzo Giuliani, presidente della sezione “Cesare Battisti” di Verona negli anni ’60.
@@ -31,4 +32,4 @@ Il [video][video] è disponibile anche in [PeerTube]({%- for ptb in site.peertub
 La prima volta che avevo percorso la dorsale ero titubante, perchè non la conoscevo e non credevo potesse esistere un così bel tracciato a ridosso della città. Invece, esiste. Tenuto perfettamente, ben tracciato, immerso nel verde e con accesso alle frazioni di Verona. Cosa volete di più? Pensate ad una metà a Verona, trovate l’allacciante giusta, infilate scarpe adatte, zaino e partite!
 
 [percorso]: https://www.komoot.it/tour/572491707?ref=wtd
-[video]: https://peertube.uno/w/iLZC379DR6HJpbUFaYtDtB
+[video]: https://peertube.uno/w/dirGTeG3rqeASE5Jf4Sznr
