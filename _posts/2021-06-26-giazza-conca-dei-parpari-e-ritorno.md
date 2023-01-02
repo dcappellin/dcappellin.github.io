@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Giazza, Conca dei Parpari e ritorno"
-date: 2021-12-08 12:00:00 +0200
+date: 2021-06-26 12:00:00 +0200
 categories: speed-hiking
 ---
 
