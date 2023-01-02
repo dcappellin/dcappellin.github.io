@@ -17,3 +17,13 @@ Il [video][video] è disponibile anche in [PeerTube]({%- for ptb in site.peertub
 
 [percorso]: https://www.komoot.it/tour/395857468?ref=wtd
 [video]: https://peertube.uno/w/iLZC379DR6HJpbUFaYtDtB
+
+# Variante "reverse" e partenza dalla chieda di Montorio veronese (10 luglio 2021)
+
+Piccola modifica al tragitto originale in cui ho allungato l'itinerario, spostando la partenza alla chiesa di Montorio veronese, e invertito il senso di percorrenza.
+
+- [percorso][percorso-100721]
+- [video][video-100721] 
+
+[percorso-100721]: https://www.komoot.it/tour/414951449?ref=wtd
+[video-100721]: https://peertube.uno/w/jNAxT1fxxZ2AuTJXjXRuDA
