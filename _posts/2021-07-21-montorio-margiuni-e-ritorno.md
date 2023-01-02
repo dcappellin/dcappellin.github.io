@@ -2,6 +2,7 @@
 layout: post
 title: "Montorio veronese, contrada Margiuni e ritorno"
 date: 2021-07-21 12:00:00 +0200
+categories: speed-hiking
 ---
 
 Finito anche il giretto di oggi. Verso la fine il caldo si è fatto sentire, ma tutto si è concluso con un buon giro e luoghi molto suggestivi. In particolare il tratto della Dorsale delle 5 valli che dalla Pissarota sale fino alla contrada Margiuni. Impegnativo, ma affascinante. Unico neo, rovi ovunque e gambe piene de sgrafi 😅 . 

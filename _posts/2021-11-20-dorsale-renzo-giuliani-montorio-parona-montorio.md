@@ -2,6 +2,7 @@
 layout: post
 title: "Dorsale Renzo Giuliani - Montorio Parona Montorio"
 date: 2021-11-20 12:00:00 +0200
+categories: speed-hiking
 status_id: "109618579508587197"
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Cerro veronese n.1- Antiche contrade, ceppi di confine, architettura e religione"
 date: 2021-10-09 12:00:00 +0200
+categories: speed-hiking
 status_id: "109597827730785364"
 ---
 

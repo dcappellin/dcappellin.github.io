@@ -2,8 +2,7 @@
 layout: post
 title:  "Anello da Campofontana passando da Cima di Lobbia"
 date: 2022/05/29, 12:00:00 +0200
-categories: hiking
-comments: true
+categories: speed-hiking
 ---
 
 L'idea iniziale era quella di andare alla pietra di Bismantova, ma il bollettino meteo dell'[agenzia prevenzione ambiente energia emilia-romagna][arpae] non lasciava presagire nulla di buono: pioggia, temporale e vento. Non proprio le condizioni ideali per un'escursione a 2 ore d'auto e 180 km di strada. Optiamo per giretto in Lessinia con partenza da Campofontana, passaggio a Cima di Lobbia fino al Passo della Scagina e ritorno passando dal Monte Telegrafo. Visto che il meteo anche da noi non era proprio eccezionale, il piano B prevedeva ritorno immediato una volta arrivati a Cima di Lobbia.
