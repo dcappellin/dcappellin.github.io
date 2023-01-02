@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Anello da Campofontana passando da Cima di Lobbia"
-date: 2022/05/29, 12:00:00 +0200
-categories: speed-hiking
+date: 2022-05-28, 12:00:00 +0200
+categories: hiking
 ---
 
-L'idea iniziale era quella di andare alla pietra di Bismantova, ma il bollettino meteo dell'[agenzia prevenzione ambiente energia emilia-romagna][arpae] non lasciava presagire nulla di buono: pioggia, temporale e vento. Non proprio le condizioni ideali per un'escursione a 2 ore d'auto e 180 km di strada. Optiamo per giretto in Lessinia con partenza da Campofontana, passaggio a Cima di Lobbia fino al Passo della Scagina e ritorno passando dal Monte Telegrafo. Visto che il meteo anche da noi non era proprio eccezionale, il piano B prevedeva ritorno immediato una volta arrivati a Cima di Lobbia.
+L'idea iniziale era quella di andare alla pietra di Bismantova, ma il bollettino meteo dell'[agenzia prevenzione ambiente energia emilia-romagna][arpae] non lasciava presagire nulla di buono: pioggia, temporale e vento. Non proprio le condizioni ideali per un'escursione a 2 ore d'auto e 180 km di strada. 
+
+Optiamo per giretto in Lessinia con partenza da Campofontana, passaggio a Cima di Lobbia fino al Passo della Scagina e ritorno passando dal Monte Telegrafo. Visto che il meteo anche da noi non era proprio eccezionale, il piano B prevedeva ritorno immediato una volta arrivati a Cima di Lobbia.
 
 Partiamo fiduciosi dal cimitero di Campofontana con un bel soletto 🌞 , ma nuvole 🌥 verso Vicenza. Il bollettino dell'[Agenzia Regionale per la Prevenzione e Protezione Ambientale del Veneto][arpav] non era incoraggiante, ma nemmeno catastrofico, come lo era nel pomeriggio.
 
@@ -19,9 +21,9 @@ Poco prima di arrivare al Monte Telegrafo (1562 m) ennesima sosta in un boschett
 
 ⏱ 03:32 ↔ 6,66 km  ↗️ 520 m[^1]
 
-Il [percorso][komoot] sul mio profilo [Koomot][komoot-profile]. Ti invito a visitarlo e se ti piacciono i miei “highlight” di escursionismo e corsa ricordati di mettere un “like” 👍. 
+Il [percorso][percorso], completo di traccia GPX e fotografie, è disponibile in [Komoot]({%- if site.komoot_username -%}https://www.komoot.it/user/{{ site.komoot_username | cgi_escape | escape }}{%- endif -%}). Ti invito a visitarlo e se ti piacciono i miei “highlight” di escursionismo e corsa ricordati di mettere un “like” 👍.
 
-Molti dei miei percorsi sono visibili nel mio canale [YouTube][youtube-channel]. Ti invito a visitarlo. Se ti piacciano i video ricordati di mettere un “like” 👍 e iscriviti al canale per non perdere tutte le mie prossime avventure.
+Molti dei miei percorsi sono disponibili in [PeerTube]({%- for ptb in site.peertube -%}{%- if ptb.username and ptb.instance -%}https://{{ ptb.instance| cgi_escape | escape}}/@{{ptb.username}}{%- endif -%}{%- endfor -%}). Ti invito a visitarlo e se ti piacciano i miei video ricordati di mettere un “like” 👍. Infine ricordati di iscriverti al canale per non perdere tutte le prossime avventure.
 
 Giro impegnativo per il meteo avverso e per seguire le persone che erano con me, ma alla fine mi sono pure divertivo. Nessuno si è fatto male, avevamo l'attrezzatura giusta e alla fine è stata una bella avventura che può essere raccontata. Peccato la scarsissima visibilità, perché i panorami che si possono ammirare soprattutto nella via del ritorno sono a mio avviso eccezionali. Motivo in più per ritornarci di nuovo e comunque speriamo che la prossima volta sia quella buona per Bismantova.
 
@@ -29,8 +31,6 @@ Alla prossima e buon giro!
 
 [^1]: Il mio altimetro deve essere andato in tilt, perché alla fine segnava 750 m.
 
-[komoot-profile]: https://www.komoot.it/user/1971346940863
-[komoot]: https://www.komoot.it/tour/785914120?ref=wtd
-[youtube-channel]: https://bit.ly/3jKVu80
+[percorso]: https://www.komoot.it/tour/785914120?ref=wtd
 [arpae]: https://www.arpae.it/it
 [arpav]: https://www.arpa.veneto.it
