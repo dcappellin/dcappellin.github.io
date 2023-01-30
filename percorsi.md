@@ -3,7 +3,7 @@ layout: page
 title: Percorsi
 ---
 
-Tutti i miei percorsi sono consultabili su [Komoot][komoot]. Lì potrai trovare una serie di scatti nei punti interessanti del percorso e potrai scaricare la traccia GPX. In alcuni casi inserisco una descrizione, ma ultimamente preferisco riportarla solo qui.
+Tutti i miei percorsi sono consultabili su [Komoot]({%- if site.komoot_username -%}https://www.komoot.it/user/{{ site.komoot_username | cgi_escape | escape }}{%- endif -%}) e sono corredati sia da una serie di scatti nei punti di interesse sia dalla traccia GPX scaricabile. In alcuni casi inserisco una descrizione, ma ultimamente preferisco riportarla solo qui.
 
 # Ultimi 3 Percorsi Completati
 
