@@ -10,12 +10,10 @@ bucket_url: https://eu2.contabostorage.com/2bf6bd9d48c04782aa09bc85404d26bf:eot4
 # Social
 mastodon:
   - { username: dcappellin, instance: mastodon.uno }
-  - { username: deniscappellin, instance: mastodon.acm.org }
 peertube: 
   - { username: dcappellin, instance: peertube.uno }
 linkedin_username: deniscappellin
 komoot_username: "1971346940863"
-telegram_channel: dcappellin
 
 # Build settings
 theme: minima
