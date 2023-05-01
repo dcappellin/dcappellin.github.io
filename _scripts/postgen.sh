@@ -28,13 +28,15 @@ fi
 POSTPATH="../_drafts/"
 EXTENSION=".markdown"
 FILENAME="`date +%Y-%m-%d ; echo`-$1${EXTENSION}"
+TEMPLATEPATH="templates/"
+TEMPLATEEXTENSION=".tmpl"
 
 touch "${POSTPATH}${FILENAME}"
 
-if [ -z "$TEMPLATE" ]; then
+if [ -z "${TEMPLATEPATH}${TEMPLATE}${TEMPLATEEXTENSION}" ]; then
 	echo -e "# $1" > ${POSTPATH}${FILENAME}
 else
-	cp -f "${TEMPLATE}" "${POSTPATH}${FILENAME}"
+	cp -f "${TEMPLATEPATH}${TEMPLATE}${TEMPLATEEXTENSION}" "${POSTPATH}${FILENAME}"
 fi
 
 echo "File ${FILENAME} created."
