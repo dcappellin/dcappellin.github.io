@@ -32,10 +32,10 @@ title: Meteo
 
 - [Bollettino meteorologico][bollettino-emilia-romagna]{:target="_blank"}
  
-[bollettino-veneto-arpav]: https://www.arpa.veneto.it/previsioni/it/html/index.php 
+[bollettino-veneto-arpav]: https://meteo.arpa.veneto.it/?page=MV
 [previsione-verona-meteologix]: https://meteologix.com/it/forecast/3164527-verona/meteogram/sui-hd
-[bollettino-montagna-veneto]: https://www.arpa.veneto.it/previsioni/it/html/meteo_dolomiti.php
-[bollettino-valanghe-veneto]: https://www.arpa.veneto.it/neve_valanghe/it/html/index.php 
+[bollettino-montagna-veneto]: https://meteo.arpa.veneto.it/?page=DM
+[bollettino-valanghe-veneto]: https://meteo.arpa.veneto.it/?page=NV
 [bollettino-trento]: https://www.meteotrentino.it/?ID=7#!/home?tab=2
 [bollettino-montagna-trento]: https://www.meteotrentino.it/?ID=7#!/home?tab=4
 [bollettino-valanghe-trento]: https://www.meteotrentino.it/?ID=7#!/home?tab=5
