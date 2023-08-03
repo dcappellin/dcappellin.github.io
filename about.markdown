@@ -8,9 +8,9 @@ Ciao, sono Denis Cappellin. Vivo a *[Verona][verona]*, *[Italia][italia]* con mi
 professionalmente come software operations manager sia nel tempo libero a fare "cose". In effetti mi piacerebbe scrivere
 molti più post, ma ho troppe attività che mi appassionano e un giorno ha solo 23,934 ore. 
 
-Se vuoi contattarmi mi trovi nel *[Fediverso][fediverso]* su [Mastodon]({%- for mst in site.mastodon -%}{%- if mst.username and mst.instance -%}https://{{ mst.instance| cgi_escape | escape}}/@{{mst.username}}{%- endif -%}{%- endfor -%}), [PeerTube]({%- for ptb in site.peertube -%}{%- if ptb.username and ptb.instance -%}https://{{ ptb.instance| cgi_escape | escape}}/@{{ptb.username}}{%- endif -%}{%- endfor -%}) oppure su [Komoot]({%- if site.komoot_username -%}https://www.komoot.it/user/{{ site.komoot_username | cgi_escape | escape }}{%- endif -%}); mentre se vuoi contattarmi per motivi professionali, mi trovi su [LinkedIn]({%- if site.linkedin_username -%}https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}{%- endif -%}).
+Se vuoi contattarmi mi trovi su [LinkedIn]({%- if site.linkedin_username -%}https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}{%- endif -%}) oppure nel *[Fediverso][fediverso]* su [Mastodon]({%- for mst in site.mastodon -%}{%- if mst.username and mst.instance -%}https://{{ mst.instance| cgi_escape | escape}}/@{{mst.username}}{%- endif -%}{%- endfor -%}). Va bene anche l'email che trovi in calce.
 
-Per essere sempre aggiornato puoi iscriverti al mio canale [Telegram]({%- if site.telegram_channel -%}https://t.me/{{ site.telegram_channel| cgi_escape | escape }}{%- endif -%}) oppure al [feed RSS]({{ 'feed.xml' | relative_url }}) .
+Per essere sempre aggiornato puoi iscriverti al [feed RSS]({{ 'feed.xml' | relative_url }}) .
 
 ### Colophon
 [denis.cappell.in]({{site.url}}) è pubblicato utilizzando [GitHub][github-pages], [Jekyll][jekyll] con il tema [Minima][minima].
