@@ -1,11 +1,16 @@
 ---
 layout: page
-title: Curriculum
+title: Curriculum Vitae
+heading: false
 ---
+
+\> [English version](/cv_eng.html)
+
+Credo fermamente che il successo di una squadra risieda nella qualità delle connessioni tra i suoi membri. Ho acquisito la consapevolezza che empatia e una comunicazione efficace siano fondamentali per costruire un ambiente di lavoro coeso e stimolante. Ho affrontato diversi progetti, dimostrando abilità nell'adattarmi a sfide in ambienti tecnici complessi. La mia visione è quella di creare un ambiente aperto all'innovazione e al cambiamento, convinto che sia parte integrante del progresso professionale. La mia missione è quella di contribuire positivamente al futuro sviluppo professionale, offrendo il mio impegno nelle relazioni interpersonali e la mia capacità di guidare team motivati verso il successo.
 
 ## Esperienze Professionali
 
-### ASEM S.r.l. (A Rockwell Automation company), Verona • Dal 2020 ad oggi
+### ASEM S.r.l. (A Rockwell Automation company), Verona • 2015 ad oggi
 
 #### Software Operations Manager
 
@@ -29,32 +34,34 @@ Il 29 settembre, dopo un’ora e mezza di colloquio, il CEO era così entusiasta
 
 Avevo deciso di intraprendere la carriera universitaria, ma allo stesso tempo avevo necessità di potermi sostenere economicamente con un lavoro che mi permettesse di frequentare le lezioni e preparare gli esami. Mi sono state proposte delle collaborazioni in regime di partita IVA ed ho offerto consulenza informatica a 360°, dallo sviluppo di soluzioni software ai corsi di formazione. Come libero professionista, sono stato in grado di finanziare completamente i miei studi universitari e molto altro ancora. Il lavoro mi gratificava, ma era importante per me completare il progetto che avevo iniziato e quindi ho deciso di sospendere l'attività e concludere il mio percorso universitario. Pochi giorni dopo il conseguimento della laurea, mi è stata offerta la mia prima posizione come dipendente, che ho accettato con entusiasmo. Era il 2005. Dopo cinque anni di esperienza come lavoratore autonomo, avevo compreso che preferivo impegnare tutte le mie risorse nella realizzazione di progetti rispetto alla necessaria attività, per un consulente, di acquisizione nuovi clienti. Alla fine, ho mantenuto la partita IVA per altri dieci anni, continuando ad occuparmi dei clienti che già avevo e accettando qualche nuovo progetto grazie al passaparola.
 
-### 2F Communication, Verona • 1999 - 2002
+### Gruppo 2F, Verona • 1997 - 2002
 
 #### Web developer
 
 Lo sviluppo di un sito web implica non solo competenze tecniche, ma anche entrare in relazione con il cliente per comprendere le sue esigenze ed aspettative che dovranno poi essere trasformate in un prodotto che rappresenta la sua immagine. L'esperienza nell’insegnamento mi ha certamente aiutato nella comunicazione, ma dialogare con un cliente è un’abilità diversa che richiede apprendimento. Inizialmente è stato complesso, e fortunatamente potevo contare sull’assistenza del reparto commerciale, ma una volta appreso il processo le cose sono diventate più semplici. Dopo essere diventato responsabile tecnico dell’ufficio di Verona, ho goduto di una buona autonomia nella gestione del cliente.
-
-### Scuola 2F, Verona • 1997 - 2001
 
 #### Insegnante
 
 Timido e introverso, questa prima esperienza nel mondo del lavoro mi ha sicuramente aiutato ad approcciarmi alle persone. Spesso tenevo corsi di introduzione all’informatica in località remote della provincia di Verona, in orario serale e mi rivolgevo ad un pubblico con scolarità molto variegata. Ho imparato con umiltà a spiegare concetti complicati con un linguaggio fruibile dai miei allievi ottenendo un riconoscimento a livello regionale come migliore insegnante.
 
 ### Formazione
-Università degli Studi di Verona - Laurea Magistralis in Informatica, 2005. Titolo della tesi di laurea “Sistemi di basi di dati ad oggetti - ODMG 3.0 e recenti sviluppi”. Prof. Relatore Carlo Combi.
 
-I.T.C.S. Aldo Pasoli, Verona - Diploma di Ragioneria - Perito commerciale e programmatore, 1994.
+- Università degli Studi di Verona - Laurea Magistralis in Informatica, 2005. Titolo della tesi di laurea “Sistemi di basi di dati ad oggetti - ODMG 3.0 e recenti sviluppi”. Prof. Relatore Carlo Combi.
+- I.T.C.S. Aldo Pasoli, Verona - Diploma di Ragioneria - Perito commerciale e programmatore, 1994.
 
 ### Lingue
-Italiano: lingua madre.
 
-Inglese: completa conoscenza professionale.
+- Italiano: lingua madre.
+- Inglese: completa conoscenza professionale.
 
 ### Interessi
 Speed Hiking, Escursionismo, Corsa, Fotografia, Cinema, Scienza, Tecnologia e Lettura. 
 
-Membro ACM (Association for Computing Machinery) dal 2006. Socio CAI (Club Alpino Italiano) dal 2021 e membro S.I.E.VR (Scuola Internazionale di Escursionismo Veronese) dal 2022.
+- Membro ACM (Association for Computing Machinery) dal 2006.
+- Socio CAI (Club Alpino Italiano) dal 2021.
+- Membro S.I.E.VR (Scuola Internazionale di Escursionismo Veronese) dal 2022.
 
 ### Note
 Referenze disponibili sul mio profilo [LinkedIn]({%- if site.linkedin_username -%}https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}{%- endif -%}).
+
+###### v2

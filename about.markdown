@@ -4,9 +4,17 @@ title: Chi sono
 permalink: /chi-sono/
 ---
 
+## "Qualche volta si vince, spesso si impara"
+
 Ciao, sono Denis Cappellin. Vivo a *[Verona][verona]*, *[Italia][italia]* con mia moglie e i nostri due bambini. Mi diverto sia 
 professionalmente come software operations manager sia nel tempo libero a fare "cose". In effetti mi piacerebbe scrivere
 molti più post, ma ho troppe attività che mi appassionano e un giorno ha solo 23,934 ore. 
+
+### Esperienza professionale
+
+Se vuoi conoscere la mia storia lavorativa, ti invito a leggere il mio [Curriculum Vitae](/cv.html) (_also available in English_).
+
+### Contatti
 
 Se vuoi contattarmi mi trovi su [LinkedIn]({%- if site.linkedin_username -%}https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}{%- endif -%}) oppure nel *[Fediverso][fediverso]* su [Mastodon]({%- for mst in site.mastodon -%}{%- if mst.username and mst.instance -%}https://{{ mst.instance| cgi_escape | escape}}/@{{mst.username}}{%- endif -%}{%- endfor -%}). Va bene anche l'email che trovi in calce.
 
