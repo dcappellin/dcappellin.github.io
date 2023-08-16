@@ -6,11 +6,22 @@ heading: false
 
 \> [English version](/cv_eng.html)
 
-Credo fermamente che il successo di una squadra risieda nella qualità delle connessioni tra i suoi membri. Ho acquisito la consapevolezza che empatia e una comunicazione efficace siano fondamentali per costruire un ambiente di lavoro coeso e stimolante. Ho affrontato diversi progetti, dimostrando abilità nell'adattarmi a sfide in ambienti tecnici complessi. La mia visione è quella di creare un ambiente aperto all'innovazione e al cambiamento, convinto che sia parte integrante del progresso professionale. La mia missione è quella di contribuire positivamente al futuro sviluppo professionale, offrendo il mio impegno nelle relazioni interpersonali e la mia capacità di guidare team motivati verso il successo.
+Credo fermamente che uno dei fattori di successo di una squadra risieda nella qualità delle relazioni tra i suoi membri. Ritengo che empatia ed una comunicazione efficace siano fondamentali per costruire un ambiente di lavoro coeso e stimolante. Ho affrontato diversi progetti, dimostrando abilità nell'adattarmi a sfide tecniche complesse. Con questi valori ed esperienza affronto la responsabilità della guida di team, contribuendo a creare un ambiente aperto all'innovazione e al cambiamento, e dove il mio impegno nelle cura delle relazioni interpersonali è spesso chiave nel raggiungimento degli obiettivi aziendali.
+
+## Abilità
+
+- Comunicazione
+- Software Development Life Cycle 
+- Qualità del software
+- Team Leadership
+- Lavoro in team
+- Collaborazione tra team
 
 ## Esperienze Professionali
 
-### ASEM S.r.l. (A Rockwell Automation company), Verona • 2015 ad oggi
+### ASEM S.r.l. (A Rockwell Automation company)
+
+##### 2015 ad oggi • Verona
 
 #### Software Operations Manager
 
@@ -24,17 +35,23 @@ Nel contesto italiano, la ricerca di figure esperte nel settore della Quality As
 
 Sono stato integrato nel team di un progetto all'avanguardia in ambito web, con competenze pertinenti alla mia esperienza professionale precedente. Tuttavia, sin dal primo giorno, mi è stato assegnato un progetto completamente diverso, richiedente l'uso di linguaggi di programmazione con cui non avevo avuto esperienza in precedenza. Ho affrontato questa sfida senza scoraggiarmi e ho compreso l'importanza di adattarsi ai cambiamenti come parte del progresso professionale. Ho anche realizzato che l'obiettivo dell'eccellenza può essere bilanciato con la necessità di compiere compromessi, sempre nell'ottica di fornire il massimo valore aggiunto possibile. Questo progetto ha costituito una preziosa opportunità per stabilire relazioni con i miei nuovi colleghi di squadra, creando una base solida per la mia crescita professionale all'interno dell'azienda.
 
-### Exor International S.p.A., San Giovanni Lupatoto VR • 2005 - 2015
+### Exor International S.p.A.
+
+##### 2005 - 2015 • San Giovanni Lupatoto VR
 
 #### Senior Software Engineer
 
-Il 29 settembre, dopo un’ora e mezza di colloquio, il CEO era così entusiasta della mia storia lavorativa che mi ha chiesto di iniziare il giorno dopo, così il mio primo giorno di lavoro come dipendente a tempo indeterminato è stato un venerdì. L’estroso e visionario CEO mi coinvolse nella progettazione, sviluppo e gestione di un progetto di Enterprise 2.0 che ambiva ad integrare blog e wiki in un unico strumento, per migliorare lo scambio e il reperimento delle informazioni aziendali. Sono stati 5 anni impegnativi, in cui ho appreso le fasi del ciclo di vita di un prodotto software utilizzando le metodologie agili, ma sopratutto ho fatto mio il concetto di cambiamento, che va abbracciato e non ostacolato. Ho imparato con pazienza a cercare sempre la migliore soluzione anche se a volte significa ricominciare. Ho imparato che qualche volta si vince, ma più spesso si impara. Da settembre 2010 sono stato riassegnato al reparto Ricerca e Sviluppo dove, oltre a consolidare ulteriormente le mie competenze in ambito web, ho avuto modo di confrontarmi con lo sviluppo software per dispositivi embedded. Da giugno 2012 a marzo 2013 ho gestito i training clienti e la manualistica del prodotto JMobile, il parco siti web di Exor International e tutta la sua “web presence” nei social network. Durante questi anni ho iniziato ad apprezzare le complessità del rapporto con team di sviluppo multi-culturali.
+Il 29 settembre 2005, dopo un’ora e mezza di colloquio, il CEO era così entusiasta della mia storia lavorativa che mi ha chiesto di iniziare il giorno dopo, così il mio primo giorno di lavoro come dipendente a tempo indeterminato è stato un venerdì. L’estroso e visionario CEO mi coinvolse nella progettazione, sviluppo e gestione di un progetto di Enterprise 2.0 che ambiva ad integrare blog e wiki in un unico strumento, per migliorare lo scambio e il reperimento delle informazioni aziendali. Sono stati 5 anni impegnativi, in cui ho appreso le fasi del ciclo di vita di un prodotto software utilizzando le metodologie agili, ma sopratutto ho fatto mio il concetto di cambiamento, che va abbracciato e non ostacolato. Ho imparato con pazienza a cercare sempre la migliore soluzione anche se a volte significa ricominciare. Ho imparato che qualche volta si vince, ma più spesso si impara. Da settembre 2010 sono stato riassegnato al reparto Ricerca e Sviluppo dove, oltre a consolidare ulteriormente le mie competenze in ambito web, ho avuto modo di confrontarmi con lo sviluppo software per dispositivi embedded. Da giugno 2012 a marzo 2013 ho gestito i training clienti e la manualistica del prodotto JMobile, il parco siti web di Exor International e tutta la sua “web presence” nei social network. Durante questi anni ho iniziato ad apprezzare le complessità del rapporto con team di sviluppo multi-culturali.
 
-### Libero professionista, Verona • 2000 - 2015
+### Libero professionista
+
+##### 2000 - 2015 • Verona
 
 Avevo deciso di intraprendere la carriera universitaria, ma allo stesso tempo avevo necessità di potermi sostenere economicamente con un lavoro che mi permettesse di frequentare le lezioni e preparare gli esami. Mi sono state proposte delle collaborazioni in regime di partita IVA ed ho offerto consulenza informatica a 360°, dallo sviluppo di soluzioni software ai corsi di formazione. Come libero professionista, sono stato in grado di finanziare completamente i miei studi universitari e molto altro ancora. Il lavoro mi gratificava, ma era importante per me completare il progetto che avevo iniziato e quindi ho deciso di sospendere l'attività e concludere il mio percorso universitario. Pochi giorni dopo il conseguimento della laurea, mi è stata offerta la mia prima posizione come dipendente, che ho accettato con entusiasmo. Era il 2005. Dopo cinque anni di esperienza come lavoratore autonomo, avevo compreso che preferivo impegnare tutte le mie risorse nella realizzazione di progetti rispetto alla necessaria attività, per un consulente, di acquisizione nuovi clienti. Alla fine, ho mantenuto la partita IVA per altri dieci anni, continuando ad occuparmi dei clienti che già avevo e accettando qualche nuovo progetto grazie al passaparola.
 
-### Gruppo 2F, Verona • 1997 - 2002
+### Gruppo 2F
+
+##### 1997 - 2002 • Verona
 
 #### Web developer
 
@@ -46,8 +63,13 @@ Timido e introverso, questa prima esperienza nel mondo del lavoro mi ha sicurame
 
 ### Formazione
 
-- Università degli Studi di Verona - Laurea Magistralis in Informatica, 2005. Titolo della tesi di laurea “Sistemi di basi di dati ad oggetti - ODMG 3.0 e recenti sviluppi”. Prof. Relatore Carlo Combi.
-- I.T.C.S. Aldo Pasoli, Verona - Diploma di Ragioneria - Perito commerciale e programmatore, 1994.
+#### Laurea in Informatica
+
+##### Università degli Studi di Verona 2005, Verona
+
+#### Diploma di Ragioneria
+
+##### I.T.C.S. Aldo Pasoli, 1994, Verona
 
 ### Lingue
 
@@ -64,4 +86,4 @@ Speed Hiking, Escursionismo, Corsa, Fotografia, Cinema, Scienza, Tecnologia e Le
 ### Note
 Referenze disponibili sul mio profilo [LinkedIn]({%- if site.linkedin_username -%}https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}{%- endif -%}).
 
-###### v2
+###### v3
