@@ -21,7 +21,7 @@ I firmly believe that one of the success factors of a team lies in the quality o
 
 ## Experience
 
-### ASEM S.r.l. (A Rockwell Automation company)
+#### ASEM S.r.l. (A Rockwell Automation company)
 
 ##### 2015 - Ongoing •  Verona, Italy
 
@@ -37,7 +37,7 @@ In the Italian context, the search for proficient individuals within the Quality
 
 I was seamlessly integrated into a cutting-edge web project, leveraging skills from my previous professional experience. However, right from the first day, I was assigned to an entire different project, requiring the use of programming languages I had not previously encountered. I embraced this challenge without becoming discouraged and grasped the significance of adapting to changes as an integral part of professional advancement. I also came to realize that the pursuit of excellence can be balanced with the necessity of making compromises, all while aiming to deliver utmost added value. This project presented a valuable opportunity to establish relationships with my new team colleagues, laying a strong foundation for my professional growth within the company.
 
-### Exor International S.p.A.
+#### Exor International S.p.A.
 
 ##### 2005 - 2015 • San Giovanni Lupatoto VR, Italy
 
@@ -45,13 +45,13 @@ I was seamlessly integrated into a cutting-edge web project, leveraging skills f
 
 On September 29, 2005, after an hour and a half of interview, the CEO was so enthusiastic about my work history that he asked me to start the next day, making my first day of work as a permanent employee a Friday. The visionary CEO involved me in the design, development, and management of an Enterprise 2.0 project aiming to integrate blogs and wikis into a single tool, enhancing the exchange and retrieval of corporate information. These were five challenging years during which I acquired an understanding of the software product lifecycle stages using agile methodologies. Above all, I embraced the concept of change, seeing it as something to be embraced rather than hindered. I learned to patiently seek the best solution, even if it sometimes meant starting over. I realized that sometimes we win, but more often we learn. Since September 2010, I have been reassigned to the Research and Development department where, in addition to further strengthening my skills in the web domain, I had the opportunity to engage with software development for embedded devices. From June 2012 to March 2013, I managed customer training and product documentation for JMobile, the Exor International website portfolio, and its entire web presence across social networks. During these years, I have been exposed to the complexities of collaborating with multicultural development teams.
 
-### Freelancer Software Engineer
+#### Freelancer Software Engineer
 
 ##### 2000 - 2015 • Verona, Italy
 
 I had decided to undertake a graduate program and needed a job that would allow me to take classes and prepare for exams. As freelancer, I provided comprehensive IT consulting services, ranging from software solution development to training courses. As an independent professional, I was able to fully finance my university studies and much more. Even though the work was rewarding, it was important for me to complete the project I had initiated. Thus, I decided to pause my activities and conclude my university journey. Shortly after graduating, in 2005, I was offered my first position as permanent employee, which I eagerly accepted. Following five years of self-employment experience, I had come to realize that I preferred channeling all my resources into projects realization rather than engaging in the constant pursuit of new clients, as is customary for consultants. Ultimately, I retained my self-employed status for another decade, continuing to serve existing clients and taking on a few new projects through word of mouth.
 
-### Gruppo 2F
+#### Gruppo 2F
 
 ##### 1997 - 2002 • Verona, Italy
 
