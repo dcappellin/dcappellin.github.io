@@ -67,7 +67,7 @@ Timido e introverso, questa prima esperienza nel mondo del lavoro mi ha sicurame
 
 ##### Università degli Studi di Verona 2005, Verona
 
-#### Diploma di Ragioneria
+#### Diploma di Ragioniere perito commerciale e programmatore
 
 ##### I.T.C.S. Aldo Pasoli, 1994, Verona
 

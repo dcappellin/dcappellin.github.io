@@ -69,7 +69,7 @@ Shy and introverted, this first work experience undoubtedly aided me in developi
 
 ##### Università degli Studi di Verona 2005, Verona, Italy
 
-#### Diploma di Ragioneria
+#### Diploma di Ragioniere perito commerciale e programmatore
 
 ##### I.T.C.S. Aldo Pasoli, 1994, Verona, Italy
 
