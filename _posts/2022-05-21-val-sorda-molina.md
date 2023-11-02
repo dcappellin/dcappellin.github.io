@@ -28,7 +28,7 @@ Il [percorso][percorso], completo di traccia GPX e fotografie, è disponibile in
 Il [video][video] è disponibile anche in [PeerTube]({%- for ptb in site.peertube -%}{%- if ptb.username and ptb.instance -%}https://{{ ptb.instance| cgi_escape | escape}}/@{{ptb.username}}{%- endif -%}{%- endfor -%}). Ti invito a visitarlo e se ti piacciano i miei video ricordati di mettere un “like” 👍. Infine ricordati di iscriverti al canale per non perdere tutte le prossime avventure.
 
 [percorso]: https://www.komoot.it/tour/776663969?ref=wtd
-[video]: hhttps://peertube.uno/w/fcjvvBkce93YgBKReeGs5c
+[video]: https://peertube.uno/w/fcjvvBkce93YgBKReeGs5c
 
 Avevo sentito parlare della Val Sorda molte volte e ne ero Incuriosito. Direi che merita veramente. Sentieri pazzeschi, ma, non mi stanco di scriverlo, non adatti a tutti. Mi spiace non essere entrato al parco di Molina, che non visito da moltissimi anni. Ci dovrò tornare ad un orario più appropriato evitando la ressa di persone. Il ponte tibetano sempre di grande effetto. A questo punto mi manca solo quello nel Vajo dell'Orsa. Ecco la tappa di un prossimo percorso.
 
