@@ -3,7 +3,6 @@ layout: post
 title: "Dorsale Renzo Giuliani - Montorio Parona Montorio"
 date: 2021-11-20 12:00:00 +0200
 categories: speed-hiking
-status_id: "109618579508587197"
 ---
 
 Qui a Montorio abbiamo la fortuna di avere uno degli estremi del Percorso con la “P” maiuscola più famoso di Verona: la “Dorsale delle Frazioni”, chiamata anche “Dorsale Renzo Giuliani”. È un reticolo di sentieri, strade bianche, antiche mulattiere e brevi tratti asfaltati che collega le frazioni in collina alla città. È stata dedicata dal CAI all’ideatore e catalogatore di questo percorso, Renzo Giuliani, presidente della sezione “Cesare Battisti” di Verona negli anni ’60.

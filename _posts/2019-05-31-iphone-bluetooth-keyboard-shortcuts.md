@@ -2,7 +2,6 @@
 layout: post
 title: iPhone bluetooth keyboard shortcuts
 date: '2019-05-31 10:00:00'
-status_id: "109568365983343604"
 ---
 
 About one month ago I bought a fantastic Kinesis [Freestyle2 Blue for Mac keyboard with VIP3 accessory](https://www.kinesis-ergo.com/shop/freestyle2-blue-pc/) to try to solve a pain I had on the left hand. The pain had gone and this is very important. Freestyle2 is really a great keyboard!

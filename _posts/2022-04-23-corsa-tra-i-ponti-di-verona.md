@@ -3,7 +3,6 @@ layout: post
 title: "Corsa tra i ponti di Verona"
 date: 2022-04-23 12:00:00 +0200
 categories: run
-status_id: "109598056390722662"
 ---
 
 Oggi ho deciso di cambiare sia disciplina sia ambiente. Di solito pratico speed hiking in ambiente montano/collinare, oggi invece corsa urbana 🏃🏙. Il tutto nasce dal fatto che tramite l’App Komoot che utilizzo per tracciare i miei percorsi si possono creare dei punti interessanti, chiamati “highlight”, specifici per disciplina.

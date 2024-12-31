@@ -3,7 +3,6 @@ layout: post
 title: "San Giorgio, Monte Plische e ritorno"
 date: 2021-09-25 12:00:00 +0200
 categories: speed-hiking
-status_id: "109547974166378595"
 ---
 
 Dopo due settimane di stop, causa leggera infiammazione al tendine d’Achille per aver un po’ strafatto nel percorso Velo Veronese, Bolca ritorno in sella con un bel percorso di “altezza”, quindi meno km in sviluppo orizzontale ➡️, ma con un buon sviluppo in verticale ⬆️.

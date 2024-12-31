@@ -3,7 +3,6 @@ layout: post
 title: "1a Lessinia Legend Run 20 - 4 anni dopo"
 date: 2021-10-09 12:00:00 +0200
 categories: speed-hiking
-status_id: "109535176194814541"
 ---
 
 Oggi “full immersion” nel Parco Naturale della Lessinia ripercorrendo la prima edizione della famosa corsa Lessinia Legend Run nella sua variante 20, che corsi, si fa per dire visto che le mie qualità di corsa sono mediocri, nel 2017. Da allora non ho partecipate alle edizioni successive, però conto di rifarmi l’anno prossimo puntando alla variante 30.

@@ -3,7 +3,6 @@ layout: post
 title: "Il Grande Anello della Storia"
 date: 2021-06-19 12:00:00 +0200
 categories: speed-hiking
-status_id: "109569333099086891"
 ---
 
 Il Grande Anello della Storia è un itinerario da trekking di 17 Km, che riunisce in un'unico percorso circolare tutti i principali luoghi di interesse paesaggistico, storico e culturale della collina ad est della Valpantena, nel comune di Verona.

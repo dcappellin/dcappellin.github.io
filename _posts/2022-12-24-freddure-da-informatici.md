@@ -3,7 +3,6 @@ layout: post
 title: Freddure... da informatici
 date: '2022-12-24 09:30:00'
 categories: humor
-status_id: "109568342920549560"
 ---
 
 Una raccolta di freddura che solo menti malate - in senso buono - come quelle degli informatici possono partorire.

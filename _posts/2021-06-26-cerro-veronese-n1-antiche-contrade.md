@@ -3,7 +3,6 @@ layout: post
 title: "Cerro veronese n.1- Antiche contrade, ceppi di confine, architettura e religione"
 date: 2021-06-26 12:00:00 +0200
 categories: speed-hiking
-status_id: "109597827730785364"
 ---
 
 Per maggiori informazioni sul percorso "Cerro Veronese n.1- Antiche contrade, ceppi di confine, architettura e religione" visita la [pagina dedicata](https://www.visitlessinia.eu/it/cerro-veronese-n-1-antiche-contrade-ceppi-di-confine-architettura-e-religione-484) sul sito di Visit Lessina - La Montagna di Verona.
