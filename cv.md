@@ -79,11 +79,11 @@ Timido e introverso, questa prima esperienza nel mondo del lavoro mi ha sicurame
 ### Interessi
 Speed Hiking, Escursionismo, Corsa, Fotografia, Cinema, Scienza, Tecnologia e Lettura. 
 
-- Membro ACM (Association for Computing Machinery) dal 2006.
+- Membro ACM (Association for Computing Machinery) dal 2006-2024.
 - Socio CAI (Club Alpino Italiano) dal 2021.
 - Membro S.I.E.VR (Scuola Internazionale di Escursionismo Veronese) dal 2022.
 
 ### Note
 Referenze disponibili sul mio profilo [LinkedIn]({%- if site.linkedin_username -%}https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}{%- endif -%}).
 
-###### v3
+###### v3.1

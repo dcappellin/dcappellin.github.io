@@ -82,7 +82,7 @@ Shy and introverted, this first work experience undoubtedly aided me in developi
 
 Speed Hiking, Hiking, Running, Photography, Movie, Science, Technology and Reading. 
 
-- ACM (Association for Computing Machinery) member since 2006
+- ACM (Association for Computing Machinery) member 2006-2024
 - CAI (Club Alpino Italiano) member since 2021
 - S.I.E.VR (Scuola Internazionale di Escursionismo Veronese) member since 2022.
 
@@ -90,4 +90,4 @@ Speed Hiking, Hiking, Running, Photography, Movie, Science, Technology and Readi
 
 References available on my LinkedIn profile [LinkedIn]({%- if site.linkedin_username -%}https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}{%- endif -%}).
 
-###### v3
+###### v3.1
