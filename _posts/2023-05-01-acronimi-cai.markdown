@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Acronimi del Club Alpino Italiano"
-date: 1 May 2023 at 08:17:11 CEST
+date: 6 Jan 2025 16:19:00 CET
 ---
 
 Se, come il sottoscritto, avete iniziato a vivere con maggior presenza la vostra partecipazione nel [Club Alpino Italiano][cai], vi sarete accorti dell'utilizzo non trascurabile di moltissimi acronimi. Frequentemente, il Sodalizio stesso, viene menzionato con il suo acronimo: CAI.
