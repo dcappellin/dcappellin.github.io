@@ -58,6 +58,7 @@ L'elenco che segue riporta tutte le sigle in cui mi sono imbattuto e che condivi
 | SCE | Scuola Centrale di Escursionismo e Cicloescursionismo |
 | SNS | Scuola Nazionale di Speleologia |
 | SNT | Scuola Nazionale di Torrentismo |
+| SSE | Scuola Sezionale di Escursionismo |
 | SVI | Servizio Valanghe Italiano |
 | TAA | Regione Trentino-Alto Adige |
 | TER | Regioni Toscana, Emilia-Romagna |
