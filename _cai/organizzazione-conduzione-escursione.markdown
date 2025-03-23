@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Come si prepara e conduce un'escursione"
+title: "Come si prepara e si conduce un'escursione"
 ---
 
 Il contenuto che segue è estratto direttamente da un file in formato Markdown che viene elaborato da [Deckset][deckset] per generare una presentazione. 
