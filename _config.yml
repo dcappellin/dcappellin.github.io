@@ -25,3 +25,7 @@ show_excerpts: true
 exclude:
   - vendor/bundle/
   - dcappellin.github.io.bbprojectd/
+
+collections:
+  cai:
+    output: true
