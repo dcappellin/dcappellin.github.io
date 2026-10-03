@@ -85,7 +85,8 @@ Verona, Italy | **1997 - 2002**
 University of Verona | 2005
 
 **Chief Happiness Officer (CHO)**  
-2BHappy | 2024
+2BHappy | 2024  
+8-week programme in positive leadership, energy management, polarity management and organisational process redesign. Verifiable [Open Badge](https://app.myopenbadge.com/receive/umlx-dd9b7f1798d28f48e1d3aa66678de861-WlPI1yJ5-81710912884/QJOdyZlkP-10664368ab90dbef8f90f164aa8cebee-16M3cZ0opsyG-4/public) credential.
 
 ## Languages
 
@@ -102,4 +103,4 @@ University of Verona | 2005
 ### Notes
 References available on my [LinkedIn]({%- if site.linkedin_username -%}https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}{%- endif -%}) profile.
 
-###### v4.2
+###### v4.3
