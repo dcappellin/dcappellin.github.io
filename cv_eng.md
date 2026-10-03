@@ -6,9 +6,9 @@ heading: false
 
 \> [Versione italiana](/cv.html)
 
-**Software Operations Manager | Engineering Manager**
+**Software Operations Manager · Engineering Manager**
 
-DevSecOps | Cloud Operations | Product Security | Software Quality | Industrial Automation
+DevSecOps · Cloud Operations · Product Security · Software Quality · Industrial Automation
 
 ## Professional Summary
 
@@ -26,9 +26,9 @@ Software Operations Manager leading **4 teams and 20 people** at ASEM, a Rockwel
 
 ### ASEM S.r.l., a Rockwell Automation company
 
-Verona, Italy | **2015 - Present** (total company tenure)
+Verona, Italy · **2015 - Present** (total company tenure)
 
-#### Manager, Software Operations | 2020 - Present
+#### Manager, Software Operations · 2020 - Present
 
 Lead **4 teams and 20 people** across DevSecOps, CloudOps, product security and software engineering for industrial and embedded products. Scope previously also included Quality Assurance and technical documentation.
 
@@ -39,18 +39,18 @@ Lead **4 teams and 20 people** across DevSecOps, CloudOps, product security and 
 - Develop people through goal setting, performance reviews, mentoring and succession planning; foster a culture of ownership, transparency and documentation across teams in Italy, Poland, the United States, China and India.
 - Took on leadership responsibility for the System Manager and driver development teams, aligning operational priorities and day-to-day collaboration with product roadmaps.
 
-#### Quality Assurance Lead | 2018 - 2020
+#### Quality Assurance Lead · 2018 - 2020
 
 - Built and led the Quality Assurance team, establishing testing practices, software non-conformity management and structured collaboration with development teams.
 - Developed team capability and autonomy, strengthening requirements understanding, traceability and communication of software non-conformities to developers.
 
-#### Senior Software Engineer | 2015 - 2018
+#### Senior Software Engineer · 2015 - 2018
 
 - Contributed to web and embedded software development across the full product lifecycle, working in multidisciplinary teams and adopting new programming languages and technologies.
 
 ### Exor International S.p.A.
 
-San Giovanni Lupatoto, Italy | **2005 - 2015**
+San Giovanni Lupatoto, Italy · **2005 - 2015**
 
 #### Senior Software Engineer
 
@@ -60,7 +60,7 @@ San Giovanni Lupatoto, Italy | **2005 - 2015**
 
 ### Independent Consultant
 
-Verona, Italy | **2000 - 2015**
+Verona, Italy · **2000 - 2015**
 
 #### Software Engineer and IT Consultant
 
@@ -68,7 +68,7 @@ Verona, Italy | **2000 - 2015**
 
 ### Gruppo 2F
 
-Verona, Italy | **1997 - 2002**
+Verona, Italy · **1997 - 2002**
 
 #### Web Developer, Technical Lead and IT Instructor
 
@@ -82,10 +82,10 @@ Verona, Italy | **1997 - 2002**
 ## Education and Certifications
 
 **Master's-level Degree in Computer Science** (Laurea, five-year programme)  
-University of Verona | 2005
+University of Verona · 2005
 
 **Chief Happiness Officer (CHO)**  
-2BHappy | 2024  
+2BHappy · 2024  
 8-week programme in positive leadership, energy management, polarity management and organisational process redesign. Verifiable [Open Badge](https://app.myopenbadge.com/receive/umlx-dd9b7f1798d28f48e1d3aa66678de861-WlPI1yJ5-81710912884/QJOdyZlkP-10664368ab90dbef8f90f164aa8cebee-16M3cZ0opsyG-4/public) credential.
 
 ## Languages
@@ -103,4 +103,4 @@ University of Verona | 2005
 ### Notes
 References available on my [LinkedIn]({%- if site.linkedin_username -%}https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}{%- endif -%}) profile.
 
-###### v4.3
+###### v4.4
